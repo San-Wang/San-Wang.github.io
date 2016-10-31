@@ -34,6 +34,16 @@ When you are done "Commit changes" to save them.
 
 These pages are formatted using Markdown. [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+####Adding a bio image and a logo
+images/bio-photo.jpg - This is the photo that appears on the home page of the website. The recommended image size is 200px x 200px. To use your own image:
+1. Click the gray "Upload files" button at the top of the file list in Github and select your image file to upload.
+2. Go to the \_config.yml file and edit it. Change the "avatar" field to your uploaded image filename. 
+
+images/logo.png - If you wish to use a logo for your site, upload a logo file into the images folder. You will also need to add logo.png under the 'Logo:' section of the \_config.yml file.
+
+\_data/navigation.yml -This is the file that allows you to manage your navigation elements. By default all available navigation items are shown. If you wish to hide any items, simply delete them from this file.
+
+
 ####Editing Blog Posts
 Blog Posts are all located in the \_posts folder. This folder contains sample posts that address in more depth the site structure and the markdown syntax. These posts are good to reference (by opening in a text editor of your choice) in order to get a better understanding of markdown. When you are ready to add a new post, simply copy one of the existing posts and edit it. Be sure to update the information at the top of the post, such as the title and timestamp. You will also want to rename the file to follow the same naming convention of the other post files (yyyy-mm-dd-post-title.md).
 
