@@ -28,7 +28,7 @@ When you're done with your changes, you "commit changes " to them. This is like 
 The accent.scss file allows you to modify the accent colors of your website. The default colors (red and black) can be set to any hexadecimal color that you would like. [W3Schools.com](http://www.w3schools.com/colors/colors_picker.asp) provides a good color picker that allows you to find the corresponding hex number for any color you wish to use.
 
 ####Editing the About Me and Resume Pages
-These pages are each found in their corresponding directories (/about /resume). Simply edit the index.md file in each of these directories. Pay special attention to the formatting of the resume file. It makes use of single quotes ( \' ) and underscores ( \_ ) in the markdown markup language to format various aspects of the resume, including dates and university names.
+These pages are each found in the index.md files located in the main directory and in the /resume directory, respectively. Simply edit each of these index.md files. Pay special attention to the formatting of the resume file. It makes use of single quotes ( \' ) and underscores ( \_ ) in the markdown markup language to format various aspects of the resume, including dates and university names.
 
 When you are done "Commit changes" to save them. 
 
