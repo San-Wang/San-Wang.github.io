@@ -49,3 +49,6 @@ Blog Posts are all located in the \_posts folder. This folder contains sample po
 
 ##Viewing Your Changes
 Edits to your files should show up within a minute or two. Go to [username].github.io to view them. 
+
+##Problems?
+If your changes aren't showing up on the site, it's possible that there's a problem building your site.  You can go to your Github repository's Settings page and scroll down to the GitHub Pages section (on the Options tab).  If all is well, this section should say "Your site is ready to be published at https://[username].github.io/."  If there's a problem, it will say something similar to: "Your site is having problems building" and should also tell you which line of which file is causing the error.
