@@ -5,6 +5,7 @@ locale:           en_US
 logo:
 url:		
 # Enter the following platform usernames if you would like for them to appear on your site.
+# Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
   name: Your Name
   avatar: bio-photo.jpg
