@@ -8,4 +8,4 @@ By using this template you will have a website that is well designed, easy to ma
 [Instructions on Jekyll Academic](https://docs.google.com/a/email.gwu.edu/document/d/1zZiNRRcaanRSUpEv-6klmg9jouP5H_lhnqBY-5laWNo/pub) for the GW Libraries workshop "[Build a Professional Website With GitHub Pages](https://library.gwu.edu/news-events/events/build-professional-website-github-pages%E2%80%8B)".
 
 ##[Getting Started Guide](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-Complete documentation for getting started as well as advanced features of Jekyll Academic can be fount at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
+Complete documentation for getting started as well as advanced features of Jekyll Academic can be found at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
