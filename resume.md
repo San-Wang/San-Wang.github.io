@@ -23,7 +23,7 @@ Name of Award, Organization
 ## Publications
 
 
-### Journals
+## Journals
 
 `1994`
 Article Title, Journal Title
@@ -31,7 +31,7 @@ Article Title, Journal Title
 `1994`
 Article Title, Journal Title
 
-### Books
+## Books
 
 `1994`
 Book Title, Journal Title
