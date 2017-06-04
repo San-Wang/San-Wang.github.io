@@ -3,9 +3,6 @@ layout: page
 excerpt: "About Me"
 ---
 
-# About Me
-
-Graduate student of Data Science Program at George Washington University 
 
 ## Current Interests and Projects:
 
