@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Professional Website Workshop
+title:            San Wang
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory 
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
@@ -10,7 +10,7 @@ logo:             # filename of a logo image that has been placed into your imag
 owner:
   name: San Wang
   avatar: 2016GWCareer.jpg
-  bio: "A brief description of yourself."
+  bio: "Graduate Assistant at GWU Data Science Program"
   email: sanwang@gwu.edu
   twitter: #username
   facebook: #username
