@@ -2,44 +2,32 @@
 layout: resume
 ---
 ## Currently
-_Graduate Assistant(GWU)_, Research in current situation of Data Science programs in US                                      
-* •	Collecting information of Data Science programs from dozens of colleges across US and analyze the pattern of curriculum design.  
+_Graduate Assistant(GWU)_, Research about current situation of Data Science programs in US                                     
 
 ## Education
 
 `2016 - Current`
-__George Washington University__
-M.S. in Data Science
+ __George Washington University__
+* M.S. in Data Science
 
 `2011 - 2015`
 __Sichuan University__
-B.S. in Mathematics, concerntration on Statistics 
+* B.S. in Mathematics, concerntration on Statistics 
 
 ## Researches
 
-`2017`
-**_Researcher_, German Traffic Sign Recognition using Convolutional Neural Network              GWU, DC, 02/2017-05/2017**
-* Used Caffe in python to build a convolutional neural network model, which can recognize 43 different kinds of traffic signs with higher than 95% accuracy; 
-* Can use this trained model to give predict result with corresponding probability when apply to new traffic sign images.
+**German Traffic Sign Recognition using Convolutional Neural Network**
+<a href="https://san-wang.github.io/blog/GTSRB/">More Details</a>
+* • Used Caffe in python to build a well-trained convolutional neural network model, which can recognize 43 different kinds of traffic signs, which gained higher than 90% accuracy when applied to 12630 new images; 
+* • Can use this trained model to give predict result with corresponding probability when apply to new traffic sign images.
+
+**Researcher, Adult Census Income Analysis using R** 
+* • Applied both logistic regression and decision tree methods to predict if income can reach 50K given 15 variables (like age, work type, education, etc.) using 32,561 observations (accuracy = 82.24%).
 
 ## Awards
 
 
-## Journals
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-## Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
@@ -51,21 +39,19 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Graduate Assistant__, George Washington University 
 
-- Task
-- Task
+- •	Collecting information of Data Science programs from dozens of colleges across US and analyze the pattern of curriculum design.  
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2013 Summer`
+__Phone Marketing Intern__, Ping ’an Insurance Company of China, Ltd.
 
-- Task
-- Task
+- •	Organized weekly activities including insurance seminars and touring and reached out to potential customers by phone about willingness to participate those activities
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2017 -->
 
 
