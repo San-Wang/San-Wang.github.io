@@ -61,7 +61,9 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 
 `Arlington, VA, 10/2016` Marine Corp Marathon	                                                        
 
+
 `Washington Monument Grounds, DC, 06/2016` Moving day DC	                                         
+
 
 `DC, 04/2016` DC Central Kitchen
 * •	Prepared food for those experiencing homelessness.
