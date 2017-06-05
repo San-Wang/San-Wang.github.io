@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 **Graduate Assistant(GWU)** 
-*Research about current situation of Data Science programs in US                                     
+* Research about current situation of Data Science programs in US                                     
 
 ## Education
 
