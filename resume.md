@@ -27,14 +27,7 @@ __Sichuan University__
 
 **Effect Prediction for NIPPV in Patients with Respiratory Failure**              
 * •	Extracted variables that had significant impact on treatment and used logistic regression model to predict treatment result by analyzing 144 patients’ physical data;
-* •	Obtained two ways to improve the model regarding the nonlinear properties and factor analysis of independent variables, and developed model that can predict NIPPV treatment efficacy (accuracy rate>70%) effectively.
-
-## Awards
-* `05/2015` Outstanding Undergraduate Thesis（5%）
-* `01/2015` Excellent Volunteer of SK Sunny Undergraduates Volunteer Service
-* `11/2014` Second Class Scholarship   
-* `05/2013` Active Volunteer in Love Passing Voluntary Service of SCU
-* `04/2013` Second Prize in Undergraduates Tennis Championship of SCU                                          
+* •	Obtained two ways to improve the model regarding the nonlinear properties and factor analysis of independent variables, and developed model that can predict NIPPV treatment efficacy (accuracy rate>70%) effectively.                                 
 
 ## Occupation
 
@@ -52,6 +45,12 @@ __Intern__, Ping ’an Insurance Company of China, Ltd.
 __Vice Minister of Organization Department__, Student Union of College of Mathematics, SCU      
 - •	Trained newly-recruited members and organized activities such as lectures, film watching and knowledge contests.
 
+## Awards
+* `05/2015` Outstanding Undergraduate Thesis（5%）
+* `01/2015` Excellent Volunteer of SK Sunny Undergraduates Volunteer Service
+* `11/2014` Second Class Scholarship   
+* `05/2013` Active Volunteer in Love Passing Voluntary Service of SCU
+* `04/2013` Second Prize in Undergraduates Tennis Championship of SCU
 
 ## Volunteer
 
