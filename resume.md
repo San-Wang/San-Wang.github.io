@@ -2,25 +2,27 @@
 layout: resume
 ---
 ## Currently
-
-Current Position Description
+_Graduate Assistant(GWU)_, Research in current situation of Data Science programs in US                                      
+* •	Collecting information of Data Science programs from dozens of colleges across US and analyze the pattern of curriculum design.  
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016 - Current`
+__George Washington University__
+M.S. in Data Science
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2011 - 2015`
+__Sichuan University__
+B.S. in Mathematics, concerntration on Statistics 
+
+## Researches
+
+`2017`
+**_Researcher_, German Traffic Sign Recognition using Convolutional Neural Network              GWU, DC, 02/2017-05/2017**
+* Used Caffe in python to build a convolutional neural network model, which can recognize 43 different kinds of traffic signs with higher than 95% accuracy; 
+* Can use this trained model to give predict result with corresponding probability when apply to new traffic sign images.
 
 ## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
 
 
 ## Journals
