@@ -4,7 +4,11 @@ excerpt: "About Me"
 ---
 
 
-## Current Interests and Projects:
+## Current Interests:
 - Machine Learning
 
-- Data mining 
+- Data analysis 
+
+## Projects: 
+- [German Traffic Sign Recognition(CNN)](https://san-wang.github.io/blog/GTSRB/)
+
