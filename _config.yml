@@ -39,6 +39,8 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
+# Google services
+google_analytics: UA-102434081-1
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
