@@ -19,8 +19,9 @@ __Sichuan University__
 
 ## Researches
 
-**German Traffic Sign Recognition using Convolutional Neural Network**  
-[link to blog](https://san-wang.github.io/blog/GTSRB/)  
+**German Traffic Sign Recognition using Convolutional Neural Network**
+[(link to blog)](https://san-wang.github.io/blog/GTSRB/) 
+
 * • Used Caffe in python to build a well-trained convolutional neural network model, which can recognize 43 different kinds of traffic signs, which gained higher than 90% accuracy when applied to 12630 new images; 
 * • Can use this trained model to give predict result with corresponding probability when apply to new traffic sign images.
 
