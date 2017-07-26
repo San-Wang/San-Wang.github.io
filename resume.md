@@ -62,17 +62,17 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 - •	Trained newly-recruited members and organized activities such as lectures, film watching and knowledge contests.
 
 ## Awards
-* `05/2015` Outstanding Undergraduate Thesis（5%）
-* `01/2015` Excellent Volunteer of SK Sunny Undergraduates Volunteer Service
+* `05/2015` Outstanding Undergraduate Thesis（5%） 
+* `01/2015` Excellent Volunteer of SK Sunny Undergraduates Volunteer Service  
 * `11/2014` Second Class Scholarship   
-* `05/2013` Active Volunteer in Love Passing Voluntary Service of SCU
+* `05/2013` Active Volunteer in Love Passing Voluntary Service of SCU  
 * `04/2013` Second Prize in Undergraduates Tennis Championship of SCU
 
 ## Conference
 
 `DC, 05/15/2017-05/17/2017` **Know Identity Conference**  
-`DC, 05/05/2017-05/06/2017` **DevFest DC 2017**
-`DC, 12/03/2016` **GW DATA Data Driven Insights Conference: Extract, Transform, Learn**
+`DC, 05/05/2017-05/06/2017` **DevFest DC 2017**  
+`DC, 12/03/2016` **GW DATA Data Driven Insights Conference: Extract, Transform, Learn**  
 `DC, 11/29/2016` **Exploring some of the latest and greatest tools in Data Science**  
 `DC, 09/28/2016` **Data Transparency 2016 with Open Data Innovation Summit**  
 `DC, 06/30/2016` **ATARC Federal Big Data Summit**  
