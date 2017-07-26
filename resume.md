@@ -68,7 +68,15 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 * `05/2013` Active Volunteer in Love Passing Voluntary Service of SCU
 * `04/2013` Second Prize in Undergraduates Tennis Championship of SCU
 
-# Conference
+## Conference
+
+`DC, 05/15/2017-05/17/2017` **Know Identity Conference**  
+`DC, 05/05/2017-05/06/2017` **DevFest DC 2017**
+`DC, 12/03/2016` **GW DATA Data Driven Insights Conference: Extract, Transform, Learn**
+`DC, 11/29/2016` **Exploring some of the latest and greatest tools in Data Science**  
+`DC, 09/28/2016` **Data Transparency 2016 with Open Data Innovation Summit**  
+`DC, 06/30/2016` **ATARC Federal Big Data Summit**  
+`DC, 03/04/2016-03/05/2016` **Open Data Day DC 2016**  
 
 
 ## Volunteer
