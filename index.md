@@ -3,9 +3,7 @@ layout: page
 excerpt: "About Me"
 ---                     
 
-# About Me  
-
-## Current Interests:
+ ## Current Interests:
 - Machine Learning
 
 - Data analysis 
