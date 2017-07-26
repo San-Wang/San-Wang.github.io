@@ -18,7 +18,19 @@ layout: resume
 __Sichuan University__
 * B.S. in Mathematics, concerntration on Statistics 
 
-## Researches
+## Skills
+• Solid mathematics and statistics foundations. 
+• 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.
+• Proficient at Tableau, Python, R, Caffe, SPSS;
+ > Web scraping using Python (BeautifulSoup);
+ > Data Visualization using tableau, ggplot2, plotly;
+ > Statistical modeling using R (specialize at logistic regression);
+ > Pattern recognition using Convolutional Neural Network (Caffe, ); 
+• Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform
+
+
+
+## Major Researches
 
 **German Traffic Sign Recognition using Convolutional Neural Network**
 [(link to blog)](https://san-wang.github.io/blog/GTSRB/) 
@@ -55,6 +67,9 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 * `11/2014` Second Class Scholarship   
 * `05/2013` Active Volunteer in Love Passing Voluntary Service of SCU
 * `04/2013` Second Prize in Undergraduates Tennis Championship of SCU
+
+# Conference
+
 
 ## Volunteer
 
