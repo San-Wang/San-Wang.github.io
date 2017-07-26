@@ -22,10 +22,10 @@ __Sichuan University__
 * Solid mathematics and statistics foundations.   
 * 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.  
 * Proficient at Tableau, Python, R, Caffe, SPSS;  
- > Web scraping using Python (BeautifulSoup);
- > Data Visualization using tableau, ggplot2, plotly;
- > Statistical modeling using R (specialize at logistic regression);
- > Pattern recognition using Convolutional Neural Network (Caffe, ); 
+ > Web scraping using Python (BeautifulSoup);  
+ > Data Visualization using tableau, ggplot2, plotly;  
+ > Statistical modeling using R (specialize at logistic regression);   
+ > Pattern recognition using Convolutional Neural Network (Caffe, );   
 * Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
 
 
