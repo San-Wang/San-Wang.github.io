@@ -23,6 +23,8 @@ __Sichuan University__
 * • Solid mathematics and statistics foundations.   
 * • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.  
 * • Proficient at Tableau, Python, R, Caffe, SPSS 
+Detail:
+:web scraping using Python
 
        : Web scraping using Python (BeautifulSoup); 
        
