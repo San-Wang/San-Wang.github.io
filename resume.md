@@ -33,7 +33,8 @@ __Sichuan University__
 >Statistical modeling using R;          
 
 >Pattern recognition using Convolutional Neural Network (Caffe);    
-       
+
+
 * • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
 
 
