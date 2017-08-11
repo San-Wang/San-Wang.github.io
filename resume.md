@@ -10,7 +10,7 @@ layout: resume
 
 ## Education
 
-`2016 - Current(expect graduate at Dec. 2017)`
+`2016 - Current(expect graduate in Dec. 2017)`
  __George Washington University__
 * M.S. in Data Science
 
