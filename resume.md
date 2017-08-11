@@ -22,7 +22,7 @@ __Sichuan University__
 ## Skills
 * • Solid mathematics and statistics foundations.   
 * • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.  
-* • Proficient at Tableau, Python, R, Caffe, SPSS;  
+* • Proficient at Tableau, Python, R, Caffe, SPSS 
        : Web scraping using Python (BeautifulSoup);  
        : Data Visualization using tableau, ggplot2, plotly;  
        : Statistical modeling using R;   
