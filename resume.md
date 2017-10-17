@@ -20,6 +20,7 @@ __Sichuan University__
 * B.S. in Mathematics, concerntration on Statistics 
 
 ## Skills  
+
 |Softwares|                       Skill                          |   Packages if applicable    |
 |---------|------------------------------------------------------|-----------------------------|
 | Python  |Pattern recognition using Convolutional Neural Network|             Caffe           |
@@ -29,6 +30,7 @@ __Sichuan University__
 |         |                    Visualization                     |          ggplot2            |
 |   MySQL |                    Data Manupulate                   |                             |
 | Tableau |     Informative and concise dashboard with combination of various charts    |      |
+
 
 1. • Solid mathematics and statistics foundations.   
 2. • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.   
