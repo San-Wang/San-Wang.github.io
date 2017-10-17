@@ -23,18 +23,15 @@ __Sichuan University__
 * • Solid mathematics and statistics foundations.   
 * • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.  
 * • Proficient at Tableau, Python, R, Caffe, SPSS  
-
->web scraping using Python
-
+~~~ ruby
+>Pattern recognition using Convolutional Neural Network (Caffe);
+>Statistical modeling using R;
+>Data manipulate using MySQL;
 >Web scraping using Python (BeautifulSoup);
-
->Data Visualization using tableau, ggplot2, plotly;
-
->Statistical modeling using R;          
-
->Pattern recognition using Convolutional Neural Network (Caffe);    
-
-
+>Data Visualization using tableau, ggplot2, matplotlib;
+>Data cleaning/mining using Python and R
+    
+~~~  
 * • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
 
 
@@ -79,6 +76,7 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 
 ## Conference
 
+`DC, 10/09/2017` **DevFest DC 2017**  
 `DC, 05/15/2017-05/17/2017` **Know Identity Conference**  
 `DC, 05/05/2017-05/06/2017` **DevFest DC 2017**  
 `DC, 12/03/2016` **GW DATA Data Driven Insights Conference: Extract, Transform, Learn**  
