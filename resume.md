@@ -20,19 +20,18 @@ __Sichuan University__
 * B.S. in Mathematics, concerntration on Statistics 
 
 ## Skills
-* • Solid mathematics and statistics foundations.   
-* • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.  
-* • Proficient at Tableau, Python, R, Caffe, SPSS  
-
- * Pattern recognition using Convolutional Neural Network (Caffe);  
- * Statistical modeling using R;  
- * Data manipulate using MySQL;  
- * Web scraping using Python (BeautifulSoup);  
- * Data Visualization using tableau, ggplot2, matplotlib;  
- * Data cleaning/mining using Python and R    
+1. Solid mathematics and statistics foundations.   
+2. 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.  
+3. Proficient at Tableau, Python, R, Caffe, SPSS  
+ 3.1 Pattern recognition using Convolutional Neural Network (Caffe);  
+ 3.2 Statistical modeling using R;  
+ 3.3 Data manipulate using MySQL;  
+ 3.4 Web scraping using Python (BeautifulSoup);  
+ 3.5 Data Visualization using tableau, ggplot2, matplotlib;  
+ 3.6 Data cleaning/mining using Python and R 
 
      
-* • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
+4. Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
 
 
 
