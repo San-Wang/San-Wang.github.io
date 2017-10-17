@@ -22,7 +22,7 @@ __Sichuan University__
 ## Skills  
 
 |Softwares|                       Skill                          |   Packages if applicable    |
-|---------|------------------------------------------------------|-----------------------------|
+|---------|:----------------------------------------------------:|----------------------------:|
 | Python  |Pattern recognition using Convolutional Neural Network|             Caffe           |
 |         |                  Web scraping                        |          BeautifulSoup      | 
 |         |                  Visualization                       | Matplotlib; Plotly; Seaborn |
