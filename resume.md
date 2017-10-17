@@ -20,8 +20,8 @@ __Sichuan University__
 * B.S. in Mathematics, concerntration on Statistics 
 
 ## Skills  
-|Softwares| Skill | Packages if applicable |
-|---------|:--:|--:|
+|Softwares|                       Skill                          |   Packages if applicable    |
+|---------|------------------------------------------------------|-----------------------------|
 | Python  |Pattern recognition using Convolutional Neural Network|             Caffe           |
 |         |                  Web scraping                        |          BeautifulSoup      | 
 |         |                  Visualization                       | Matplotlib; Plotly; Seaborn |
