@@ -22,8 +22,7 @@ __Sichuan University__
 ## Skills
 1. • Solid mathematics and statistics foundations.   
 2. • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.   
-3. • Proficient at Tableau, Python, R, Caffe, SPSS  
-
+3. • Proficient at Tableau, Python, R, Caffe, SPSS   
  3.1 Pattern recognition using Convolutional Neural Network (Caffe);  
  3.2 Statistical modeling using R;  
  3.3 Data manipulate using MySQL;  
