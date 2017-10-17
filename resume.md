@@ -24,12 +24,12 @@ __Sichuan University__
 * • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.  
 * • Proficient at Tableau, Python, R, Caffe, SPSS  
 
-Pattern recognition using Convolutional Neural Network (Caffe);  
-Statistical modeling using R;  
-Data manipulate using MySQL;  
-Web scraping using Python (BeautifulSoup);  
-Data Visualization using tableau, ggplot2, matplotlib;  
-Data cleaning/mining using Python and R    
+ *Pattern recognition using Convolutional Neural Network (Caffe);  
+ *Statistical modeling using R;  
+ *Data manipulate using MySQL;  
+ *Web scraping using Python (BeautifulSoup);  
+ *Data Visualization using tableau, ggplot2, matplotlib;  
+ *Data cleaning/mining using Python and R    
 
      
 * • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
