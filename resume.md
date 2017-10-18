@@ -30,8 +30,6 @@ __Sichuan University__
 |         |                    Visualization                     |          ggplot2            |
 |   MySQL |                    Data Manupulate                   |                             |
 | Tableau |     Informative and concise dashboard with combination of various charts    |      |
-|---------|------------------------------------------------------|-----------------------------|
-
 
 ```
  • Solid mathematics and statistics foundations. 
