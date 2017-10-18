@@ -21,16 +21,6 @@ __Sichuan University__
 
 ## Skills    
 
-|Softwares|                       Skill                          |   Packages if applicable    |
-|:--------|:----------------------------------------------------:|----------------------------:|
-| Python  |Pattern recognition using Convolutional Neural Network|             Caffe           |
-|         |                  Web scraping                        |          BeautifulSoup      | 
-|         |                  Visualization                       | Matplotlib; Plotly; Seaborn |
-|    R    |                Statistical modeling                  |                             |
-|         |                    Visualization                     |          ggplot2            |
-|   MySQL |                    Data Manupulate                   |                             |
-| Tableau |     Informative and concise dashboard with combination of various charts    |      |
-
 ```
  • Solid mathematics and statistics foundations. 
  • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.   
@@ -44,6 +34,17 @@ __Sichuan University__
  • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
 ```
 
+**Technical skills listed by software: **  
+
+|Softwares|                       Skill                          |   Packages if applicable    |
+|:--------|:----------------------------------------------------:|----------------------------:|
+| Python  |Pattern recognition using Convolutional Neural Network|             Caffe           |
+|         |                  Web scraping                        |          BeautifulSoup      | 
+|         |                  Visualization                       | Matplotlib; Plotly; Seaborn |
+|    R    |                Statistical modeling                  |                             |
+|         |                    Visualization                     |          ggplot2            |
+|   MySQL |                    Data Manupulate                   |                             |
+| Tableau |     Informative and concise dashboard with combination of various charts    |      |
 
 ## Major Researches
 
