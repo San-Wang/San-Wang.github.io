@@ -21,8 +21,9 @@ __Sichuan University__
 
 ## Skills  
 
+|---------|------------------------------------------------------|-----------------------------|
 |Softwares|                       Skill                          |   Packages if applicable    |
-|---------|:----------------------------------------------------:|----------------------------:|
+|:--------|:----------------------------------------------------:|----------------------------:|
 | Python  |Pattern recognition using Convolutional Neural Network|             Caffe           |
 |         |                  Web scraping                        |          BeautifulSoup      | 
 |         |                  Visualization                       | Matplotlib; Plotly; Seaborn |
@@ -30,7 +31,7 @@ __Sichuan University__
 |         |                    Visualization                     |          ggplot2            |
 |   MySQL |                    Data Manupulate                   |                             |
 | Tableau |     Informative and concise dashboard with combination of various charts    |      |
-
+|---------|------------------------------------------------------|-----------------------------|
 
 * • Solid mathematics and statistics foundations.   
 * • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.   
