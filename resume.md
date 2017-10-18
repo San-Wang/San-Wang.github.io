@@ -19,9 +19,8 @@ layout: resume
 __Sichuan University__
 * B.S. in Mathematics, concerntration on Statistics 
 
-## Skills  
+## Skills    
 
-|---------|------------------------------------------------------|-----------------------------|
 |Softwares|                       Skill                          |   Packages if applicable    |
 |:--------|:----------------------------------------------------:|----------------------------:|
 | Python  |Pattern recognition using Convolutional Neural Network|             Caffe           |
@@ -35,7 +34,7 @@ __Sichuan University__
 
 
 ```
- • Solid mathematics and statistics foundations.   
+ • Solid mathematics and statistics foundations. 
  • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.   
  • Proficient at Tableau, Python, R, Caffe, SPSS  
           >Pattern recognition using Convolutional Neural Network (Caffe);  
@@ -43,8 +42,7 @@ __Sichuan University__
           >Data manipulate using MySQL;  
           >Web scraping using Python (BeautifulSoup);  
           >Data Visualization using tableau, ggplot2, matplotlib;  
-          >Data cleaning/mining using Python and R 
-     
+          >Data cleaning/mining using Python and R   
  • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
 ```
 
