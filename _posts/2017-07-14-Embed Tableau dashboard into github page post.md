@@ -40,7 +40,7 @@ Embed code for adjusting dashboard size:
   }
 </script>
 
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" frameborder="0" scrolling="no" onload="resizeIframe(this)" />
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" frameborder="0" scrolling="no" onload="resizeIframe(this)" /></iframe> 
 ~~~  
 
 <script>
@@ -49,7 +49,7 @@ Embed code for adjusting dashboard size:
   }
 </script>
 
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" frameborder="0" scrolling="no" onload="resizeIframe(this)" />
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" frameborder="0" scrolling="no" onload="resizeIframe(this)" /></iframe> 
 
 ~~~ ruby
 <div class="intrinsic-container intrinsic-container-16x9">
