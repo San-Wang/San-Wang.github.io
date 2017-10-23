@@ -20,16 +20,16 @@ Embed code:
 
 Embed code to show dashboard without :  
 ~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=y&:display_count=yes&:showVizHome=no"></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true"></iframe>
 ~~~
   
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=y&:display_count=yes&:showVizHome=no"></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true"></iframe>
 
 Embed code for adjusting dashboard size:    
 ~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=y&:display_count=yes&:showVizHome=no" height = '600'></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" height = '600'></iframe>
 ~~~  
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=y&:display_count=yes&:showVizHome=no" height = '600'></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" height = '600'></iframe>
 
 
 
