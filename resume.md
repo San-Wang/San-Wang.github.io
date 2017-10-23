@@ -33,8 +33,9 @@ __Sichuan University__
           >Data cleaning/mining using Python and R   
  • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
 ```
+   
+**Technical skills listed by software:**    
 
-** Technical skills listed by software: **  
 
 |Softwares|                       Skill                          |   Packages if applicable    |
 |:--------|:----------------------------------------------------:|----------------------------:|
