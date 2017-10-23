@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---  
 
-Here are some note for myself to embed tableau dashboard into blog after trying several different ways.
+After spending a lot of time searching online on how to embed tableau dashboard into my blog, I figure it would save people who want to do the same thing as me some time if I post my finding here. 
 
 Embed code:  
 ~~~ ruby
