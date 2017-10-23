@@ -29,9 +29,9 @@ Embed code to show dashboard without :
 
 Embed code for adjusting dashboard size:    
 ~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width = '1000' height = '1000'></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width = '1000' height = '800'></iframe>
 ~~~  
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width = '1000' height = '1000'></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width = '1000' height = '800'></iframe>
 
 
 
