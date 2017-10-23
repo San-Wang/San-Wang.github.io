@@ -83,8 +83,8 @@ Embed code for adjusting dashboard size:
 
 <div class="intrinsic-container intrinsic-container-16x9">
   <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" allowfullscreen></iframe>
-</div>
-
+</div>  
+<head>
 .intrinsic-container {
   position: relative;
   height: 0;
@@ -108,5 +108,6 @@ Embed code for adjusting dashboard size:
   width: 100%;
   height: 100%;
 }
+</head>  
 
 [Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)
