@@ -27,14 +27,14 @@ __Sichuan University__
  • Proficient at Tableau, Python, R, Caffe, SPSS  
           >Pattern recognition using Convolutional Neural Network (Caffe);  
           >Statistical modeling using R;  
-          >Data manipulate using MySQL;  
+          >Data manipulation using SQL;  
           >Web scraping using Python (BeautifulSoup);  
           >Data Visualization using tableau, ggplot2, matplotlib;  
           >Data cleaning/mining using Python and R   
  • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
 ```
 
-**Technical skills listed by software: **  
+** Technical skills listed by software: **  
 
 |Softwares|                       Skill                          |   Packages if applicable    |
 |:--------|:----------------------------------------------------:|----------------------------:|
@@ -43,7 +43,7 @@ __Sichuan University__
 |         |                  Visualization                       | Matplotlib; Plotly; Seaborn |
 |    R    |                Statistical modeling                  |                             |
 |         |                    Visualization                     |          ggplot2            |
-|   MySQL |                    Data Manupulate                   |                             |
+|   SQL |                    Data Manupulation                   |                             |
 | Tableau |     Informative and concise dashboard with combination of various charts    |      |
 
 ## Major Researches
