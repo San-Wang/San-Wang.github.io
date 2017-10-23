@@ -14,7 +14,7 @@ Embed code:
 ~~~ ruby
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true"
 ~~~
-Outcome:  
+  
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true"
 
 Embed code for adjusting dashboard size:    
