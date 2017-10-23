@@ -23,3 +23,6 @@ Embed code for adjusting dashboard size:
 ~~~  
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width = '800' height = '600'></iframe>
 
+
+
+[Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)
