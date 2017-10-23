@@ -51,63 +51,6 @@ Embed code for adjusting dashboard size:
 
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" frameborder="0" scrolling="no" onload="resizeIframe(this)" /></iframe> 
 
-~~~ ruby
-<div class="intrinsic-container intrinsic-container-16x9">
-  <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" allowfullscreen></iframe>
-</div>
-
-.intrinsic-container {
-  position: relative;
-  height: 0;
-  overflow: hidden;
-}
- 
-/* 16x9 Aspect Ratio */
-.intrinsic-container-16x9 {
-  padding-bottom: 56.25%;
-}
- 
-/* 4x3 Aspect Ratio */
-.intrinsic-container-4x3 {
-  padding-bottom: 75%;
-}
- 
-.intrinsic-container iframe {
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-~~~  
-
-<div class="intrinsic-container intrinsic-container-16x9">
-  <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" allowfullscreen></iframe>
-</div>  
-<head>
-.intrinsic-container {
-  position: relative;
-  height: 0;
-  overflow: hidden;
-}
- 
-/* 16x9 Aspect Ratio */
-.intrinsic-container-16x9 {
-  padding-bottom: 56.25%;
-}
- 
-/* 4x3 Aspect Ratio */
-.intrinsic-container-4x3 {
-  padding-bottom: 75%;
-}
- 
-.intrinsic-container iframe {
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</head>  
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width="800" height="100%"></iframe>
 
 [Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)
