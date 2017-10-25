@@ -35,24 +35,6 @@ Code for adjusting dashboard size:
 ~~~  
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width = '800' height = '800'></iframe>  
 
-~~~ ruby
-<script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-  }
-</script>
 
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" frameborder="0" scrolling="no" onload="resizeIframe(this)" /></iframe> 
-~~~  
-
-<script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-  }
-</script>
-
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" frameborder="0" scrolling="no" onload="resizeIframe(this)" /></iframe> 
-
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width="800" height="100%"></iframe>
 
 [Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)
