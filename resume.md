@@ -7,9 +7,13 @@ layout: resume
 
 **Data Science Research Assistant(GWU)** 
 
-* Analyze U.S. Data Science Programs[blog](https://dataprograms.gwu.edu/overview/)   
+* Analyze U.S. Data Science Programs  
+[blog](https://dataprograms.gwu.edu/overview/) 
+
 **Data Science Graduate Assistant(GWU)**
+
 **Hellogwu.com Website Operation Team**
+
 **InDC IOS APP Content Developer**
 
 ## Education
