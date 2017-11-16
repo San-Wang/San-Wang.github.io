@@ -64,7 +64,7 @@ __Data Science Research Assistant__, George Washington University
 
 - •	Proposed and implemented the idea to include data job industry analysis in research, coordinated web scraping data-related job availability, salary, and skill requirements information across the U.S., and visualized findings in Tableau
 - •	Created interactive Tableau dashboard with auto-filtering and auto-highlight to visualize Data Science programs’ curriculum structures and department contribution from 23 universities  
-_**Contribution**_: Led a group of 4 graduate students to build program’s blog content, contributing primarily to the [overview](https://dataprograms.gwu.edu/overview/) and [industry statistics](https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
+_**Contribution**_: Led a group of 4 graduate students to build program’s blog content, contributing primarily to the _[overview]_(https://dataprograms.gwu.edu/overview/) and _[industry statistics]_(https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
 
 __Data Science Graduate Assistant__, George Washington University 
 
