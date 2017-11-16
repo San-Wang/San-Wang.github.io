@@ -62,7 +62,7 @@ _**Accomplishment**_: Gained higher than 90% accuracy when testing the trained m
 
 __Data Science Research Assistant__, George Washington University   
 
-_**Contribution**_: Led a group of 4 graduate students to build program’s blog content, contributing primarily to the _[overview]_(https://dataprograms.gwu.edu/overview/) and _[industry statistics]_(https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
+_**Contribution**_: Led a group of 4 graduate students to build program’s blog content, contributing primarily to the [_overview_](https://dataprograms.gwu.edu/overview/) and [_industry statistics_](https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
 - •	Proposed and implemented the idea to include data job industry analysis in research, coordinated web scraping data-related job availability, salary, and skill requirements information across the U.S., and visualized findings in Tableau
 - •	Created interactive Tableau dashboard with auto-filtering and auto-highlight to visualize Data Science programs’ curriculum structures and department contribution from 23 universities  
   
