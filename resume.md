@@ -5,13 +5,16 @@ layout: resume
 ## Current
 
 
-**Graduate Assistant(GWU)** 
+**Data Science Research Assistant(GWU)** 
 
-* Research about current situation of Data Science programs in US                                     
+* Analyze U.S. Data Science Programs[blog](https://dataprograms.gwu.edu/overview/)   
+**Data Science Graduate Assistant(GWU)**
+**Hellogwu.com Website Operation Team**
+**InDC IOS APP Content Developer**
 
 ## Education
 
-`2016 - Current(expect graduate in Dec. 2017)`
+`2016 - 12/2017(expected)`
  __George Washington University__
 * M.S. in Data Science
 
@@ -23,52 +26,60 @@ __Sichuan University__
 
 ```
  • Solid mathematics and statistics foundations. 
- • 3+ years experience in data analysis with thorough data analysis training and practice from statistical modeling to machine learning.   
- • Proficient at Tableau, Python, R, Caffe, SPSS  
-          >Pattern recognition using Convolutional Neural Network (Caffe);  
+ • 3+ years experience in data analysis with thorough data analysis training and practice 
+ from statistical modeling to machine learning.   
+ • Proficient at Tableau, Python, R, Caffe  
+          >Image classification using Convolutional Neural Network (Caffe);  
+          >Machine Learning using Scikit-learn
           >Statistical modeling using R;  
           >Data manipulation using SQL;  
           >Web scraping using Python (BeautifulSoup);  
-          >Data Visualization using tableau, ggplot2, matplotlib;  
+          >Data Visualization using tableau, ggplot2, matplotlib, seaborn;  
           >Data cleaning/mining using Python and R   
- • Familiar with MySQL, SAS, Torch, AWS, Google Cloud Platform  
+ • Familiar with Tensorflow, Git, Docker, SAS, SPSS  
 ```
-   
-**Technical skills listed by software:**    
-
-
-|Softwares|                       Skill                          |   Packages if applicable    |
-|:--------|:----------------------------------------------------:|----------------------------:|
-| Python  |Pattern recognition using Convolutional Neural Network|             Caffe           |
-|         |                  Web scraping                        |          BeautifulSoup      | 
-|         |                  Visualization                       | Matplotlib; Plotly; Seaborn |
-|    R    |                Statistical modeling                  |                             |
-|         |                    Visualization                     |          ggplot2            |
-|   SQL |                    Data Manupulation                   |                             |
-| Tableau |     Informative and concise dashboard with combination of various charts    |      |
 
 ## Major Researches
 
-**German Traffic Sign Recognition using Convolutional Neural Network**
+**German Traffic Sign Recognition[Python]**
 [(link to blog)](https://san-wang.github.io/blog/GTSRB/) 
 
-* • Used Caffe in python to build a well-trained convolutional neural network model, which can recognize 43 different kinds of traffic signs, which gained higher than 90% accuracy when applied to 12630 new images; 
-* • Can use this trained model to give predict result with corresponding probability when apply to new traffic sign images.
+* •	Preprocessed 39,209 images in 43 folders in Python while transferring them into training dataset in lmdb format, including unifying size, histogram equalization and computing image mean
+* • Used Caffe in Python to build a convolutional neural network model, which trained on 43 traffic sign categories and could retrieve the probability that belongs to each category 
+* • Visualized model accuracy for each testing category using heat map, pie chart and confusion matrix in Tableau
+_Accomplishment_: Gained higher than 90% accuracy when testing the trained model on 12,630 new images
 
-**Researcher, Adult Census Income Analysis using R** 
-* • Applied both logistic regression and decision tree methods to predict if income can reach 50K given 15 variables (like age, work type, education, etc.) using 32,561 observations (accuracy = 82.24%).
+**Adult Census Income Analysis[R]** 
+* •	Built both logistic regression and decision tree models to predict if observer’s income can reach 50K given 15 variables (age, work type, education, etc.) using 32,561 observations (accuracy = 82.24%)
 
-**Effect Prediction for NIPPV in Patients with Respiratory Failure**              
+**Effect Prediction for NIPPV in Patients with Respiratory Failure[SAS]**              
 * •	Extracted variables that had significant impact on treatment and used logistic regression model to predict treatment result by analyzing 144 patients’ physical data;
 * •	Obtained two ways to improve the model regarding the nonlinear properties and factor analysis of independent variables, and developed model that can predict NIPPV treatment efficacy (accuracy rate>70%) effectively.                                 
 
 ## Occupation
 
+`Current`  
+__Data Science Research Assistant__, George Washington University 
+
+- •	Proposed and implemented the idea to include data job industry analysis in research, coordinated web scraping data-related job availability, salary, and skill requirements information across the U.S., and visualized findings in Tableau
+- •	Created interactive Tableau dashboard with auto-filtering and auto-highlight to visualize Data Science programs’ curriculum structures and department contribution from 23 universities
+_Contribution_: Led a group of 4 graduate students to build program’s blog content, contributing primarily to the [overview](https://dataprograms.gwu.edu/overview/) and [industry statistics](https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
+
 `Current`
-__Graduate Assistant__, George Washington University 
+__Data Science Graduate Assistant__, George Washington University 
 
-- •	Collecting information of Data Science programs from dozens of colleges across US and analyze the pattern of curriculum design.  
+- •	Tutor machine learning homework; help debug coding errors and direct current students and promising candidates to professors and program operation director  
 
+`Current`
+__Hellogwu.com Website Operation Team__
+
+- •	Update events and news about DC and monitor fraud in apartment information section for 230,000 registered users  
+
+`Current`
+__InDC IOS APP Content Developer__
+
+- •	Write articles and cooperate with marketing team
+ 
 `2013 Summer`
 __Intern__, Ping ’an Insurance Company of China, Ltd.
 
@@ -129,6 +140,6 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 
 <!-- ### Footer
 
-Last updated: June 2017 -->
+Last updated: November 2017 -->
 
 
