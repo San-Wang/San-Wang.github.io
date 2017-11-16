@@ -47,7 +47,6 @@ __Sichuan University__
 * •	Preprocessed 39,209 images in 43 folders in Python while transferring them into training dataset in lmdb format, including unifying size, histogram equalization and computing image mean
 * • Used Caffe in Python to build a convolutional neural network model, which trained on 43 traffic sign categories and could retrieve the probability that belongs to each category 
 * • Visualized model accuracy for each testing category using heat map, pie chart and confusion matrix in Tableau  
-
 _**Accomplishment**_: Gained higher than 90% accuracy when testing the trained model on 12,630 new images
 
 **Adult Census Income Analysis[R]** 
@@ -65,7 +64,6 @@ __Data Science Research Assistant__, George Washington University
 
 - •	Proposed and implemented the idea to include data job industry analysis in research, coordinated web scraping data-related job availability, salary, and skill requirements information across the U.S., and visualized findings in Tableau
 - •	Created interactive Tableau dashboard with auto-filtering and auto-highlight to visualize Data Science programs’ curriculum structures and department contribution from 23 universities  
-
 _**Contribution**_: Led a group of 4 graduate students to build program’s blog content, contributing primarily to the [overview](https://dataprograms.gwu.edu/overview/) and [industry statistics](https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
 
 __Data Science Graduate Assistant__, George Washington University 
