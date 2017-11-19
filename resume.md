@@ -28,7 +28,7 @@ __Sichuan University__
  • Solid mathematics and statistics foundations. 
  • 3+ years experience in data analysis with thorough data analysis training and practice 
  from statistical modeling to machine learning.   
- • Proficient at Tableau, Python, R, Caffe, Scikit-learn, SQL  
+ • Proficient at Tableau, Python, R, Caffe, Scikit-learn, SQL, MongoDB  
           >Image classification using Convolutional Neural Network (Caffe);  
           >Machine Learning using Scikit-learn
           >Statistical modeling using R;  
