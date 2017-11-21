@@ -13,7 +13,8 @@ After spending a lot of time searching online on how to embed tableau dashboard 
 I am still exploring the best way to embed tableau that can automatically adjust dashboard size along with content.
 
 
->Embed code:  
+>Basic embed code:  
+Works fine on a regular whole page size website, but not suitable for my github page website.
 
 ~~~ ruby
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=true&:display_count=true"></iframe>
@@ -37,6 +38,14 @@ I am still exploring the best way to embed tableau that can automatically adjust
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '600'></iframe>
 ~~~  
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '600'></iframe>  
+
+
+>Next step: explore how to adjust tableau to make it fit within the iframe  
+
+~~~ ruby
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '100%' frameborder="0" marginwidth="0" marginheight="0"></iframe>
+~~~  
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '100%' frameborder="0" marginwidth="0" marginheight="0"></iframe>  
 
 
 [Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)
