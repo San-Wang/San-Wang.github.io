@@ -17,8 +17,7 @@ I am still exploring the best way to embed tableau that can automatically adjust
 
 ~~~ ruby
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=y&:display_count=yes"></iframe>
-~~~
-  
+~~~  
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=y&:display_count=yes"></iframe>
 
 
