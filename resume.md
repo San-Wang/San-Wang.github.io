@@ -14,7 +14,7 @@ layout: resume
 
 ## Education
 
-`2016 - 12/2017(expected)`
+`2016 - 2017`
  __George Washington University__
 * M.S. in Data Science
 
