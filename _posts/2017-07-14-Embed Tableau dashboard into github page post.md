@@ -35,17 +35,13 @@ Works fine on a regular whole page size website, but not suitable for my github 
 >Code to not show "Tableau Public" headline :  
 
 ~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '600'></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>
 ~~~  
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '600'></iframe>  
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>  
 
 
 >Next step: explore how to adjust tableau to make it fit within the iframe  
 
-~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '100%' frameborder="0" marginwidth="0" marginheight="0"></iframe>
-~~~  
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '100%' frameborder="0" marginwidth="0" marginheight="0"></iframe>  
 
 
 [Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)
