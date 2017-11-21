@@ -14,6 +14,7 @@ I am still exploring the best way to embed tableau that can automatically adjust
 
 
 >Embed code:  
+
 ~~~ ruby
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=y&:display_count=yes"></iframe>
 ~~~
@@ -23,6 +24,7 @@ I am still exploring the best way to embed tableau that can automatically adjust
 
 
 >Code for adjusting dashboard size:    
+
 ~~~ ruby
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=true" width = '600' height = '600'></iframe>
 ~~~  
@@ -30,7 +32,8 @@ I am still exploring the best way to embed tableau that can automatically adjust
 
 
 
-Code to not show "Tableau Public" headline :  
+>Code to not show "Tableau Public" headline :  
+
 ~~~ ruby
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true" width = '800' height = '800'></iframe>
 ~~~  
