@@ -13,6 +13,6 @@ excerpt: "About Me"
 
 ### Projects: 
 - [German Traffic Sign Recognition(CNN)](https://san-wang.github.io/blog/GTSRB_Caffe/)  
- - [in Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
- - [in Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)  
+  - [in Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
+  - [in Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)  
 
