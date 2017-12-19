@@ -20,6 +20,7 @@ Training Loss:
 The evolution of interesting things we want to take a look at while training:  
 (note that "step" in the following mean epoch, not iteration)  
 Kernels for Layer One:  
+<iframe src="https://giphy.com/embed/3ohc15AY4PdOlXzwDm" width="352" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kernel-3ohc15AY4PdOlXzwDm">via GIPHY</a></p>  
 
 Feature Map for Layer One:   
 <iframe src="https://giphy.com/embed/l49JYzvTeUUyhaktG" width="350" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/featuremap-l49JYzvTeUUyhaktG">via GIPHY</a></p>
