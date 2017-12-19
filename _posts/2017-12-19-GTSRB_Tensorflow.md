@@ -12,4 +12,13 @@ category: blog
 
 I am starting to upload my results. Detail tutorial will come later.   
 
-<iframe src="https://giphy.com/embed/l49JYzvTeUUyhaktG" width="350" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/featuremap-l49JYzvTeUUyhaktG">via GIPHY</a></p>
+Training Accuracy:  
+<img src="/images/GTSRB/Tensorflow/accuracy.png">  
+Training Loss:  
+<img src="/images/GTSRB/Tensorflow/loss.png">  
+
+| Kernel | Feature Map |
+|--------|-------------|
+| <iframe src="https://giphy.com/embed/l49JYzvTeUUyhaktG" width="350" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/featuremap-l49JYzvTeUUyhaktG">via GIPHY</a></p> |  |
+
+
