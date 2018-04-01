@@ -4,7 +4,7 @@
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}
 {% if site.google_analytics and jekyll.environment == 'production' %}
 {% include analytics.html %}
-{% endif %}
+{% endif %}  
 </title>
 {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
