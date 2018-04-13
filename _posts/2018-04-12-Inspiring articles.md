@@ -2,7 +2,7 @@
 layout: post
 title: My journey in Inspiring articles and notes
 excerpt: "Inspiring - notes"
-modified: 13/04/2018, 16:46
+modified: 04/13/2018, 9:26
 tags: [note, inovation]
 comments: true
 category: blog
