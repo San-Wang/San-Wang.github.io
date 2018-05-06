@@ -23,14 +23,14 @@ methods:
 demo: flask(finished), mySQL(final demo), Spark(final demo)
 
 Current demo:  
-<a href="https://imgflip.com/gif/29fzmi"><img src="https://i.imgflip.com/29fzmi.gif" width="600px" height="300px" title="movie recommender demo"/></a>  
+<a href="https://imgflip.com/gif/29fzmi"><img src="https://i.imgflip.com/29fzmi.gif" width="500px" height="300px" title="movie recommender demo"/></a>  
   
 Home page:  
-![home page](images/Recommender/HomePage.png)  
+![home page](/images/Recommender/HomePage.png)  
 About page:  
-![about](images/Recommender/about.png)  
+![about](/images/Recommender/about.png)  
 Recommendation example:  
-![example](images/Recommender/example.png)
+![example](/images/Recommender/example.png)
 
 
 TODO list:   
