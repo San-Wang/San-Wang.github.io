@@ -2,21 +2,22 @@
 layout: post
 title: Movie Recommender System in Python
 excerpt: "Machine Learning - Image Classification"
-modified: 05/06/2018, 1:55
+modified: 06/05/2018, 1:55
 tags: [Python, Flask, NLP]
 comments: true
 category: blog
 ---
 
 ## Overview  
-A  recommendation system using content-based & collaborative filtering methods.  
+A  recommendation system using content-based & collaborative filtering methods.   
+
 **What it can do:**  
 * recommend movies based on movie's plot & keywords  
 * recommend movies based on cast: director & main actors and actresses  
 
 [Data Source](https://www.kaggle.com/rounakbanik/the-movies-dataset/data)
 
-methods: 
+**methods:**   
 * content-based: NLTK, scikit-learn, TFIDF
 * collaborative filtering: surprise, pyspark(final demo)
 
