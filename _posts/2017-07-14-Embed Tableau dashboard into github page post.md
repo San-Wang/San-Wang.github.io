@@ -27,7 +27,7 @@ Works fine on a regular whole page size website, but not suitable for my github 
 
 ~~~ ruby
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=true&:display_count=true" width = '600' height = '600'></iframe>
-~~~  
+~~~   
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=true&:display_count=true" width = '600' height = '600'></iframe>  
 
 
@@ -40,8 +40,10 @@ Works fine on a regular whole page size website, but not suitable for my github 
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>  
 
 
->Next step: explore how to adjust tableau to make it fit within the iframe  
+>Get rid of border   
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>  
+
+>Next step: explore how to adjust tableau to make it fit within the iframe  
 
 
 
