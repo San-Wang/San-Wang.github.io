@@ -2,7 +2,8 @@
 layout: resume
 ---  
 
-[Resume(pdf)](/assets/Resume_San Wang_github.pdf)  
+
+>**[Resume(pdf)](/assets/Resume_San Wang_github.pdf)  **
 
 ## Current
 
