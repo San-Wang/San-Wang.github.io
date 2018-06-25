@@ -2,13 +2,11 @@
 layout: resume
 ---  
 
+[Resume(pdf)](/assets/Resume_San Wang_github.pdf)  
+
 ## Current
 
-•	**Data Science Research Assistant(GWU)**     
-
-•	**Data Science Graduate Assistant(GWU)**
-
-•	**Hellogwu.com Website Operation Team**
+•	**Hellogwu.com Website Operation Assistant**
 
 •	**InDC IOS APP Content Developer**
 
@@ -25,44 +23,49 @@ __Sichuan University__
 ## Skills    
 
 ```
- • Solid mathematics and statistics foundations. 
- • 3+ years experience in data analysis with thorough data analysis training and practice 
- from statistical modeling to machine learning.   
- • Proficient at Tableau, Python, R, Caffe, Scikit-learn, SQL, MongoDB  
-          >Image classification using Convolutional Neural Network (Caffe);  
-          >Machine Learning using Scikit-learn
-          >Statistical modeling using R;  
-          >Data manipulation using SQL;  
-          >Web scraping using Python (BeautifulSoup);  
-          >Data Visualization using tableau, ggplot2, matplotlib, seaborn;  
-          >Data cleaning/mining using Python and R   
- • Familiar with Tensorflow, Git, Docker, SAS, SPSS  
+ • Solid background in advanced mathematics, statistical and machine learning modeling 
+ • 3+ years experience in data analysis    
+ • Proficient with Python, Tableau, MySQL, Tensorflow, Scikit-learn, Caffe, Git  
+          >Computer Vision  
+          >NLP
+          >Modeling  
+          >ETL  
+   
+ • Familiar with Docker, SAS, SPSS  
 ```
 
-## Major Researches
+## Major Researches  
 
-**German Traffic Sign Recognition[Python]**
-[(link to blog)](https://san-wang.github.io/blog/GTSRB/) 
+**Movie Recommendation System [Python]**  
+[(Demo)](https://san-wang.github.io/blog/Movie_Recommender/)                  
+* •	Developed a Flask web API with mySQL as database to provide live movie recommendations from scratch
+* •	Provided personalized recommendation according to users’ rating history using collaborative filtering methods
+* •	Provided content-based recommendation based on 45,000 movies’ overview, cast, directors and 270,000 users’ ratings
 
-_**Accomplishment**_: Gained higher than 90% accuracy when testing the trained model on 12,630 new images
-* •	Preprocessed 39,209 images in 43 folders in Python while transferring them into training dataset in lmdb format, including unifying size, histogram equalization and computing image mean
-* • Used Caffe in Python to build a convolutional neural network model, which trained on 43 traffic sign categories and could retrieve the probability that belongs to each category 
-* • Visualized model accuracy for each testing category using heat map, pie chart and confusion matrix in Tableau  
+**Master Thesis, German Traffic Sign Classification [Python] [Python]**
+[(Tensorflow)](https://san-wang.github.io/blog/GTSRB_Tensorflow/)   
+[(Caffe)](https://san-wang.github.io/blog/GTSRB_Caffe/)  
 
-**Adult Census Income Analysis[R]** 
-* •	Built both logistic regression and decision tree models to predict if observer’s income can reach 50K given 15 variables (age, work type, education, etc.) using 32,561 observations (accuracy = 82.24%)
+_**Accomplishment**_: Gained 90.58% accuracy when testing on 12,630 images in Caffe and 95.42% in Tensorflow on 7841 images  
+* •	Classified 39,209 images in 43 categories using convolutional neural network 
+* •	Built data-reading pipelines to automatically preprocess 39,209 images in 43 folders for both Caffe and Tensorflow 
+* •	Visualized the change of parameters, kernels’ pattern and feature maps through whole training process in Tensorboard 
+* •	Reported model performance in a non-technical friendly dynamic Tableau dashboard
 
-**Effect Prediction for NIPPV in Patients with Respiratory Failure[SAS]**              
+**Customer Value Analysis [Python]**                                   
+* •	Predicted valuable credit card customers based on their payment history, bill statement history and some background information by using 25,000 samples with more than 20 features
+* •	Built pipelines to improved performance by automating PCA, tuning regularization parameters and model selection
+
+**Bachelor Thesis, Effect Prediction for NIPPV in Patients with Respiratory Failure[SAS]**              
 * •	Extracted variables that had significant impact on treatment and used logistic regression model to predict treatment result by analyzing 144 patients’ physical data;
 * •	Obtained two ways to improve the model regarding the nonlinear properties and factor analysis of independent variables, and developed model that can predict NIPPV treatment efficacy (accuracy rate>70%) effectively.                                 
 
 ## Occupation
 
-`Current`  
 
 __Data Science Research Assistant__, George Washington University   
 
-_**Contribution**_: Led a group of 4 graduate students to build program’s blog content, contributing primarily to the [_overview_](https://dataprograms.gwu.edu/overview/) and [_industry statistics_](https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
+_**Contribution**_: Led a group of 4 graduate students to build program’s technical blog content, contributing primarily to the [_overview_](https://dataprograms.gwu.edu/overview/) and [_industry statistics_](https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
 - •	Proposed and implemented the idea to include data job industry analysis in research, coordinated web scraping data-related job availability, salary, and skill requirements information across the U.S., and visualized findings in Tableau
 - •	Created interactive Tableau dashboard with auto-filtering and auto-highlight to visualize Data Science programs’ curriculum structures and department contribution from 23 universities  
   
