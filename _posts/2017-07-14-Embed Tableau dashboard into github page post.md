@@ -41,6 +41,10 @@ Works fine on a regular whole page size website, but not suitable for my github 
 
 
 >Get rid of border   
+~~~ ruby
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>  
+~~~  
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>  
 
 >Next step: explore how to adjust tableau to make it fit within the iframe  
