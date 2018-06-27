@@ -30,10 +30,13 @@ Current demo:
 
 >Explore the dataset using Tableau:  
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Viz_44/MovieOverview?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '600'></iframe>    
 For better user experience, you can go to the [original dashboard](https://public.tableau.com/views/Viz_44/MovieOverview) in Tableau public  
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Viz_44/MovieOverview?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '600'></iframe>    
+
+
 >Snapshot for flask demo pages:  
+
 Home page:  
 ![home page](/images/Recommender/HomePage.png)  
 About page:  
