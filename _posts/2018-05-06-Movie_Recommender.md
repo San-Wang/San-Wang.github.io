@@ -27,9 +27,10 @@ Current demo:
 <a href="https://imgflip.com/gif/2cuv3v"><img src="https://i.imgflip.com/2cuv3v.gif" width="500px" height="300px" title="movie recommender demo"/></a>  
 
 [Data Source](https://www.kaggle.com/rounakbanik/the-movies-dataset/data)  
-Explore the dataset using Tableau:  
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Viz_44/MovieOverview?:embed=true&:display_count=true" width = '600' height = '600'></iframe>  
+>Explore the dataset using Tableau:  
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Viz_44/MovieOverview?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '600'></iframe>  
 
 Home page:  
 ![home page](/images/Recommender/HomePage.png)  
