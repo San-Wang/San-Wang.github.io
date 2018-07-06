@@ -21,7 +21,7 @@ owner:
   mendeley: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-102434081-1
     verify:
     scholar: #id
   bing-verify:
@@ -40,8 +40,6 @@ owner:
   codepen: #username
   disqus-shortname:
   
-# Google services
-google_analytics: UA-102434081-1
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
