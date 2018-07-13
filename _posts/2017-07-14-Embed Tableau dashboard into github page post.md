@@ -17,44 +17,45 @@ I am still exploring the best way to embed tableau that can automatically adjust
 Works fine on a regular whole page size website, but not suitable for my github page website.
 
 ~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=true&:display_count=true"></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes"></iframe>
 ~~~  
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=true&:display_count=yes"></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes"></iframe>
 
 
 
 >Code for adjusting dashboard size:    
 
 ~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=true&:display_count=true" width = '600' height = '600'></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes" width = '600' height = '600'></iframe>
 ~~~   
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=true&:display_count=true" width = '600' height = '600'></iframe>  
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes" width = '600' height = '600'></iframe>  
 
 
 
 >Code to not show "Tableau Public" headline :  
 
 ~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800'></iframe>
 ~~~  
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>  
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800'></iframe>  
 
 
 >Get rid of border:
 
 ~~~ ruby
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>  
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800'></iframe>  
 ~~~  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800'></iframe>  
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800'></iframe>  
 
 Following are all testing:  
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800' scrolling='no' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800' scrolling='no' ></iframe>   
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=true&:display_count=true" width = '650' height = '800' align='middle' scrolling='no' ></iframe>  
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes:render=true" width = '650' height = '800' align='middle' scrolling='yes' ></iframe>  
 
 >Next step: explore how to adjust tableau to make it fit within the iframe  
 
 
 
-[Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)
+[Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)  
+[Parameters for Embed Code](https://onlinehelp.tableau.com/current/pro/desktop/en-us/embed_list.html)
