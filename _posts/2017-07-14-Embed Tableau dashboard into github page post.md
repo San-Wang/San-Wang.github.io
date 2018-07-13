@@ -78,11 +78,13 @@ Enable to use auto scale, need to set dashboard size as auto in Tableau Desktop!
 Exploring...
 * JS way (researching)
 You can't run HTML/JS in markdown files, simply because markdown is not actually anything that understands how to run HTML/JS. The only reason your markdown files are rendering correctly is because Jekyll is parsing your markdown files and rendering them as HTML/JS behind the scenes.
-* iframe ways  
+* iframe way
+
 ---
 test
 ---  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = 100% height = '450' scrolling='yes' ></iframe>    
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = 100% height = '450' scrolling='yes' ></iframe>     
 
 .intrinsic-container {
   position: relative;
@@ -109,7 +111,7 @@ test
 }
 
 <div class="intrinsic-container intrinsic-container-16x9">
-  <iframe src="//www.youtube.com/embed/KMYrIi_Mt8A" allowfullscreen></iframe>
+  <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = 100% height = '450' scrolling='yes' ></iframe> 
 </div>
 
 _________________________
