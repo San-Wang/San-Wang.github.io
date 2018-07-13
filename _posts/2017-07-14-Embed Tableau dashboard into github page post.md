@@ -2,18 +2,24 @@
 layout: post
 title: Embed Tableau dashboard into github page post
 excerpt: "Visualization - Tableau"
-modified: 10/23/2017
+modified: 07/13/2018
 tags: [Visualization, Tableau]
 comments: true
 category: blog
 ---  
 
+Purpose of this article:  
 After spending a lot of time searching online on how to embed tableau dashboard into my blog, I figure it would save people who want to do the same thing as me some time if I post my finding here. I will put the code I tried with the result that the dashboard showed in my blog together. 
 
-I am still exploring the best way to embed tableau that can automatically adjust dashboard size along with content.
+## Preview  
+>1. Basic embed code  
+>2. Adjust iframe size  
+>3. Hide "Tableau Public" headline  
+>4. Seamless iframe  
+>5. Auto fit Tableau dashboard with iframe size  
 
+## 1. Basic embed code:  
 
->Basic embed code:  
 Works fine on a regular whole page size website, but not suitable for my github page website.
 
 ~~~ ruby
@@ -23,39 +29,40 @@ Works fine on a regular whole page size website, but not suitable for my github 
 
 
 
->Code for adjusting dashboard size:    
+## 2. Adjust iframe size:    
 
 ~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes" width = '600' height = '600'></iframe>
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes" width = '650' height = '450'></iframe>
 ~~~   
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes" width = '600' height = '600'></iframe>  
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes" width = '650' height = '450'></iframe>  
 
 
 
->Code to not show "Tableau Public" headline :  
-
-~~~ ruby
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800'></iframe>
-~~~  
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800'></iframe>  
-
-
->Get rid of border:
+## 3. Not show "Tableau Public" headline :  
 
 ~~~ ruby
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800'></iframe>  
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
 ~~~  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800'></iframe>  
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
 
 
->Next step: automatically adjust tableau dashboard to make it fit within the iframe  
+## 4. Seamless iframe:
+
+~~~ ruby
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
+~~~  
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
+
+
+## 5. Automatically adjust tableau dashboard to make it fit within the iframe  
+
 Caution: Enable to use auto scale, need to set dashboard size as auto in Tableau Desktop!
 
 ~~~ ruby
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '450' scrolling='yes' ></iframe>    
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
 ~~~  
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '450' scrolling='yes' ></iframe>    
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
 
 
 _________________________
