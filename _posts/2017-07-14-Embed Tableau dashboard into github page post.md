@@ -49,10 +49,13 @@ Works fine on a regular whole page size website, but not suitable for my github 
 
 
 >Next step: automatically adjust tableau dashboard to make it fit within the iframe  
+Caution: Enable to use auto scale, need to set dashboard size as auto in Tableau Desktop!
+
+~~~ ruby
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '450' scrolling='yes' ></iframe>    
+~~~  
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '450' scrolling='yes' ></iframe>    
-
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" scrolling='yes' ></iframe>   
 
 
 [Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)  
