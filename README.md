@@ -1,4 +1,4 @@
-#[My Portfolio Website](https://san-wang.github.io)  
+# [My Portfolio Website](https://san-wang.github.io)  
 
 
 Contain my profile, resume, projects, blogs.  
@@ -10,4 +10,5 @@ GWU Libraries workshop "[Build a Professional Website With GitHub Pages](https:/
 
 Useful:  
 * Jekyll academic workshop handout.pdf provided by GWU library
-* [Complete documentation for getting started as well as advanced features of Jekyll Academic](https://ncsu-libraries.github.io/jekyll-academic-docs/)
+* [Site structure with risky levels](https://ncsu-libraries.github.io/jekyll-academic-docs/advanced/#using-jekyll-locally)
+* [Complete documentation for advanced features of Jekyll Academic](https://ncsu-libraries.github.io/jekyll-academic-docs/documentation/)
