@@ -1,0 +1,13 @@
+#[My Portfolio Website](https://san-wang.github.io)  
+
+
+Contain my profile, resume, projects, blogs.  
+
+Powered by Jekyll Academic, developed by NCSU Libraries, a template utilizes Jekyll, as well as a theme based largely off of the Minimal Mistakes theme by Michael Rose. Its features include the ability to create blog posts, a dedicated resume page, social media integration and the ability to create and host Reveal.js presentations. It is also designed to be hosted on GitHub pages.
+
+Thanks:  
+GWU Libraries workshop "[Build a Professional Website With GitHub Pages](https://library.gwu.edu/news-events/events/build-professional-website-github-pages%E2%80%8B)"
+
+Useful:  
+* Jekyll academic workshop handout.pdf provided by GWU library
+* [Complete documentation for getting started as well as advanced features of Jekyll Academic](https://ncsu-libraries.github.io/jekyll-academic-docs/)
