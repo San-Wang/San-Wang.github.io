@@ -76,20 +76,12 @@ Enable to use auto scale, need to set dashboard size as auto in Tableau Desktop!
 ## 6. Adjust iframe size for moible view  
 
 Exploring...
-* JS way (researching)
-You can't run HTML/JS in markdown files, simply because markdown is not actually anything that understands how to run HTML/JS. The only reason your markdown files are rendering correctly is because Jekyll is parsing your markdown files and rendering them as HTML/JS behind the scenes.  
-* iframe way  
 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = 100% height = '450' scrolling='yes' ></iframe>     
 
 
 
-
-
----
-test
----  
 _________________________
 [Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)  
 [Parameters for Embed Code](https://onlinehelp.tableau.com/current/pro/desktop/en-us/embed_list.html)
