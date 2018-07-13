@@ -14,9 +14,17 @@ After spending a lot of time searching online on how to embed tableau dashboard 
 ## Preview  
 >1. Basic embed code  
 >2. Adjust iframe size  
->3. Hide "Tableau Public" headline  
+>3. Hide "Tableau Public" redundant part
 >4. Seamless iframe  
 >5. Auto fit Tableau dashboard with iframe size  
+>6. Adjust iframe size for moible view
+
+[x] adjust iframe size
+[x] hide Tableau software redundant part
+[x] seamless 
+[x] auto-fit dashboard within iframe
+[] adjust iframe for mobile view
+
 
 ## 1. Basic embed code:  
 
@@ -38,7 +46,7 @@ Works fine on a regular whole page size website, but not suitable for my github 
 
 
 
-## 3. Not show "Tableau Public" headline :  
+## 3. Hide "Tableau Public" redundant part :  
 
 ~~~ ruby
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
@@ -56,7 +64,8 @@ Works fine on a regular whole page size website, but not suitable for my github 
 
 ## 5. Automatically adjust tableau dashboard to make it fit within the iframe  
 
-Caution: Enable to use auto scale, need to set dashboard size as auto in Tableau Desktop!
+Share the same embed code as above, but a previous action required:  
+Enable to use auto scale, need to set dashboard size as auto in Tableau Desktop!
 
 ~~~ ruby
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
@@ -64,6 +73,44 @@ Caution: Enable to use auto scale, need to set dashboard size as auto in Tableau
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
 
+## 6. Adjust iframe size for moible view  
+
+Exploring...
+* JS way (researching)
+You can't run HTML/JS in markdown files, simply because markdown is not actually anything that understands how to run HTML/JS. The only reason your markdown files are rendering correctly is because Jekyll is parsing your markdown files and rendering them as HTML/JS behind the scenes.
+* iframe ways  
+---
+test
+---  
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = 100% height = '450' scrolling='yes' ></iframe>    
+
+.intrinsic-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+ 
+/* 16x9 Aspect Ratio */
+.intrinsic-container-16x9 {
+  padding-bottom: 56.25%;
+}
+ 
+/* 4x3 Aspect Ratio */
+.intrinsic-container-4x3 {
+  padding-bottom: 75%;
+}
+ 
+.intrinsic-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+<div class="intrinsic-container intrinsic-container-16x9">
+  <iframe src="//www.youtube.com/embed/KMYrIi_Mt8A" allowfullscreen></iframe>
+</div>
 
 _________________________
 [Reference](http://kb.tableau.com/articles/howto/embedding-tableau-public-views-in-iframes)  
