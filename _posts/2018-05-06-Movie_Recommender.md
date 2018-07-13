@@ -28,12 +28,10 @@ Current demo:
 
 [Data Source](https://www.kaggle.com/rounakbanik/the-movies-dataset/data)  
 
->Explore the dataset using Tableau:  
+>Explore the dataset using Tableau:   
 
-For better user experience, you can go to the [original dashboard](https://public.tableau.com/views/Viz_44/MovieOverview) in Tableau public  
-
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Viz_44/MovieOverview?:showVizHome=no&:embed=true&:display_count=true" width = '600' height = '600'></iframe>    
-
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Viz_44/MovieOverview?:showVizHome=no&:embed=true&:display_count=true" width = '700' height = '600'></iframe>    
+For better user experience, you can go to the [original dashboard](https://public.tableau.com/views/Viz_44/MovieOverview) in Tableau public 
 
 >Snapshot for flask demo pages:  
 
