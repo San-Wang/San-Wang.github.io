@@ -49,7 +49,7 @@ Works fine on a regular whole page size website, but not suitable for my github 
 
 Following are all testing:  
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800' scrolling='no' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes" width = '650' height = '800' scrolling='yes' ></iframe>   
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:showVizHome=no&:embed=yes&:display_count=yes:render=true" width = '650' height = '800' align='middle' scrolling='yes' ></iframe>  
 
