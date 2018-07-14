@@ -25,11 +25,13 @@ A overview of what I will cover in my blog:
 
 ## 0. Get a quick idea about the project achievement before long technical content  
 **Gained higher than 90% accuracy when testing the trained model on 12,630 new images.**   
-Visualize the result in Tableau:
-![Snapshot](/images/GTSRB/Snapshot.png)  
+Tableau report of the result:  
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '600' scrolling='yes' ></iframe>   
+
 Note: The accuracy of each class at the scatter plot is represented by the color scale
 
-[Check the interactive dashboard here](https://public.tableau.com/profile/san.wang#!/vizhome/GTSRB_Result_Viz/GTSRB?publish=yes) 
+For better interactive experience, check the [dashboard in Tableau](https://public.tableau.com/profile/san.wang#!/vizhome/GTSRB_Result_Viz/GTSRB?publish=yes) 
 
 ## 1. Data Description
 This dataset comes from [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset), which contains 39209 images in 43 folders and each folder contain one same kind of traffic sign images taking from different places and at different distance. And the size of the images varies from 30 * 30 pixel to larger than 100 * 100 pixel. Here is how it looks like:  
@@ -240,11 +242,9 @@ The meaning of columns in my test result:
 |Image name|Correct label|Class that predicted by network|Probability of the predict class|Second likely predict class| probability of second predict class|1 for right,0 for wrong| 
 
 ## 8. Visualization of test result in Tableau  
-Here is a quick snapshot of the result:  
 
-![Snapshot](/images/GTSRB/Snapshot.png)  
-Note: The accuracy of each class at the scatter plot is represented by the color scale
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '600' scrolling='yes' ></iframe>   
 
-[Check the interactive dashboard here](https://public.tableau.com/profile/san.wang#!/vizhome/GTSRB_Result_Viz/GTSRB?publish=yes) 
+For better interactive experience, check the [dashboard in Tableau](https://public.tableau.com/profile/san.wang#!/vizhome/GTSRB_Result_Viz/GTSRB?publish=yes) 
 
 Full code can be found in my [github](https://github.com/San-Wang/GTSRB)
