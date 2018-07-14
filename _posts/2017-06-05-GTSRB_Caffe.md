@@ -14,14 +14,14 @@ A overview of what I will cover in my blog:
 >1. Data Description
 >2. Problem Definition 
 >3. Data Preparation    
->    3.1 Add image label into its file name and save as .jpg     
->    3.2 Using .jpg to create .lmdb data file     
+>    3.1 Add image label into its file name    
+>    3.2 Create .lmdb data file     
 >    3.3 Compute image mean file .binaryproto using .lmdb file     
->4. Build network construction 
+>4. Build network structure 
 >5. Train network 
 >6. Test the network with new images 
 >7. Test Result
->8. Visualization of test result in Tableau  
+>8. Tableau report of model performance
 
 ## 0. Get a quick idea about the project achievement before long technical content  
 
@@ -52,7 +52,7 @@ Task:
 
 
 ## 3. Data Preparation
-#### 3.1 Add image label into its file name and save as .jpg
+#### 3.1 Add image label into its file name
 I use two for loops to be able to automatically go through all 43 folders and transfer all .ppm files into .jpg.  
 Note: transfer image.ppm to image.jpg is not necessary, you can use any format as long as it is supported by openCV to creat .lmdb data file.   
 
@@ -77,7 +77,7 @@ for f in range(0,43):
 ~~~
 In this step, I separate 1/3 of my dataset into testing images (13070) and the rest as training images (26139) by if the name of the images can be divided by three. And here I add the label of the image(format(f,’02d’)) in front of the image name, which will be helpful to define the label for each image later. Now I have all training images in one folder and so do testing images. Next step is to create lmdb file based on those images. 
 
-#### 3.2 Using .jpg images to create .lmdb data file
+#### 3.2 Create .lmdb data file
 For image preprocessing, I use histogram equalization to the image for adjusting image intensities to enhance contrast and resize the image to 80 * 80. 
 ~~~ ruby
 IMAGE_WIDTH = 80
@@ -111,7 +111,7 @@ Considering my computational power and the clearness of images, I decide to use 
 
 I use caffe library tool [compute_image_mean](https://github.com/BVLC/caffe/blob/master/tools/compute_image_mean.cpp) to compute mean getting mean.binaryproto file.
 
-## 4. Build network construction
+## 4. Build network structure
 
 Considering a network layers' instruction from [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/#layersizepat):  
 ![Layer](/images/GTSRB/Layer.png)  
@@ -236,7 +236,7 @@ The meaning of columns in my test result:
 |-------|---------|--------------|------|----------|---------|------------|
 |Image name|Correct label|Class that predicted by network|Probability of the predict class|Second likely predict class| probability of second predict class|1 for right,0 for wrong| 
 
-## 8. Visualization of test result in Tableau  
+## 8. Tableau report of model performance  
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '600' scrolling='yes' ></iframe>   
 
