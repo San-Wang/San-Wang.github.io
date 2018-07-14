@@ -2,7 +2,7 @@
 layout: post
 title: Traffic Sign Recognition using Convolutional Neural Network (Caffe)
 excerpt: "Machine Learning - Image Classification"
-modified: 10/23/2017, 14:10
+modified: 2018/07/13
 tags: [CNN, Caffe, Classification]
 comments: true
 category: blog
