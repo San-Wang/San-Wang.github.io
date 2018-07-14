@@ -24,17 +24,11 @@ A overview of what I will cover in my blog:
 >8. Visualization of test result in Tableau  
 
 ## 0. Get a quick idea about the project achievement before long technical content  
-**Gained higher than 90% accuracy when testing the trained model on 12,630 new images.**   
-Tableau report of the result:  
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '600' scrolling='yes' ></iframe>   
-
-Note: The accuracy of each class at the scatter plot is represented by the color scale
-
-For better interactive experience, check the [dashboard in Tableau](https://public.tableau.com/profile/san.wang#!/vizhome/GTSRB_Result_Viz/GTSRB?publish=yes) 
+I will post a high level description of this project once I get it done  
 
 ## 1. Data Description
-This dataset comes from [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset), which contains 39209 images in 43 folders and each folder contain one same kind of traffic sign images taking from different places and at different distance. And the size of the images varies from 30 * 30 pixel to larger than 100 * 100 pixel. Here is how it looks like:  
+This dataset comes from [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset), which contains 39209 images in 43 folders and each folder contain one same kind of traffic sign images taking from different places and at different distance. And the size of the images varies from 30 * 30 pixel to larger than 100 * 100 pixel. Here is how the data fold looks once you download:  
 
 <img src="/images/GTSRB/Dataset.png">  
 
@@ -59,7 +53,8 @@ Task:
 
 ## 3. Data Preparation
 #### 3.1 Add image label into its file name and save as .jpg
-I use two for loops to be able to automatically go through all 43 folders and transfer all .ppm files into .jpg. 
+I use two for loops to be able to automatically go through all 43 folders and transfer all .ppm files into .jpg.  
+Note: transfer image.ppm to image.jpg is not necessary, you can use any format as long as it is supported by openCV to creat .lmdb data file.   
 
 ~~~ ruby
 for f in range(0,43):
@@ -82,7 +77,7 @@ for f in range(0,43):
 ~~~
 In this step, I separate 1/3 of my dataset into testing images (13070) and the rest as training images (26139) by if the name of the images can be divided by three. And here I add the label of the image(format(f,’02d’)) in front of the image name, which will be helpful to define the label for each image later. Now I have all training images in one folder and so do testing images. Next step is to create lmdb file based on those images. 
 
-#### 3.2 Using .jpg to create .lmdb data file
+#### 3.2 Using .jpg images to create .lmdb data file
 For image preprocessing, I use histogram equalization to the image for adjusting image intensities to enhance contrast and resize the image to 80 * 80. 
 ~~~ ruby
 IMAGE_WIDTH = 80
