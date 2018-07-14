@@ -16,6 +16,18 @@ category: blog
 ```
 [front matter reference](https://ncsu-libraries.github.io/jekyll-academic-docs/documentation/)  
 
+Tags tree:
+```
+|-- Visualization
+|-- Articles
+|-- Recommendation System
+|-- Machine Learning
+|   |-- Computer Vision
+|       |-- Image Classification
+|       |-- Image Segementation
+|   |-- NLP
+```
+
 Features want to add in the future:  
 * [ ] [Table of Contents](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)  
 ```
