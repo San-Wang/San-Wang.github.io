@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Visualization Journal
-excerpt: "notes"
+excerpt: "Visualization - Notes"
 modified: 10/07/2018, 18:12
 tags: [Visualization]
 comments: true
