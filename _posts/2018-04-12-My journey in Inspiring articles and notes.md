@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My journey in Inspiring articles and notes
-excerpt: "Inspiring - notes"
+excerpt: "Articles - Inspiring"
 modified: 04/13/2018, 9:26
-tags: [note, article]
+tags: [Articles]
 comments: true
 category: blog
 ---
