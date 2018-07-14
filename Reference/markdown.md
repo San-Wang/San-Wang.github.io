@@ -1,3 +1,13 @@
+# Purpose  
+Put together useful markdown code I frequently use for writing blogs in my portfolio website.   
+
+All example follows this style:  
+#### name
+```
+code
+```  
+Result  
+------------------  
 # Block quote  
 ```
 >Block quote
