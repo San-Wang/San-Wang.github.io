@@ -3,15 +3,16 @@ layout: resume
 ---  
 
 
->[View Resume in PDF)](/assets/Resume_San Wang_github.pdf)  
+>[View Resume in PDF](/assets/Resume_San Wang_github.pdf)  
 
-## Current
+# Current
 
-•	**Hellogwu.com Website Operation Assistant**
+•	**Operation Assistant**
 
-•	**InDC IOS APP Content Developer**
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Profile_25/Profile?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '700' scrolling='yes' ></iframe>    
+For better interactive experience, [click here](https://public.tableau.com/profile/san.wang#!/vizhome/Profile_25/Profile)  
 
-## Education
+# Education
 
 `2016 - 2017`
  __George Washington University__
@@ -21,12 +22,13 @@ layout: resume
 __Sichuan University__
 * B.S. in Mathematics, concerntration on Statistics 
 
-## Skills    
+
+# Feature Skills    
 
 ```
  • Solid background in advanced mathematics, statistical and machine learning modeling 
  • 3+ years experience in data analysis    
- • Proficient with Python, Tableau, MySQL, Tensorflow, Scikit-learn, Caffe, Git  
+ • Proficient with Python (Tensorflow, scikit-learn, Caffe, EDA), Tableau, MySQL, Git  
           >Computer Vision  
           >NLP
           >Modeling  
@@ -35,70 +37,56 @@ __Sichuan University__
  • Familiar with Docker, SAS, SPSS  
 ```
 
-## Major Researches  
+
+# Major Researches  
 
 **Movie Recommendation System [Python]**  
 [(Demo)](https://san-wang.github.io/blog/Movie_Recommender/)                  
-* •	Developed a Flask web API with mySQL as database to provide live movie recommendations from scratch
-* •	Provided personalized recommendation according to users’ rating history using collaborative filtering methods
-* •	Provided content-based recommendation based on 45,000 movies’ overview, cast, directors and 270,000 users’ ratings
+* •	Designed and developed a Flask web API with mySQL as database to provide live movie recommendations from scratch
+* •	Content base/ item base/ user base recommendation  
 
-**Master Thesis, German Traffic Sign Classification [Python] [Python]**
-[(Tensorflow)](https://san-wang.github.io/blog/GTSRB_Tensorflow/)   
-[(Caffe)](https://san-wang.github.io/blog/GTSRB_Caffe/)  
+**Master Thesis, German Traffic Sign Classification [Python]**
+[Implementation in Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)   
+[Implementation in Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
+* •	Image classification neural network comparison between Caffe and Tensorflow
 
-_**Accomplishment**_: Gained 90.58% accuracy when testing on 12,630 images in Caffe and 95.42% in Tensorflow on 7841 images  
-* •	Classified 39,209 images in 43 categories using convolutional neural network 
-* •	Built data-reading pipelines to automatically preprocess 39,209 images in 43 folders for both Caffe and Tensorflow 
-* •	Visualized the change of parameters, kernels’ pattern and feature maps through whole training process in Tensorboard 
-* •	Reported model performance in a non-technical friendly dynamic Tableau dashboard
+**Product Demand Analysis [Python]**  
+* •	Predicted product posting demand of a classified advertisements website 
 
 **Customer Value Analysis [Python]**                                   
-* •	Predicted valuable credit card customers based on their payment history, bill statement history and some background information by using 25,000 samples with more than 20 features
-* •	Built pipelines to improved performance by automating PCA, tuning regularization parameters and model selection
+* •	Predicted valuable credit card customers based on payment history, bill statement history and some background information  
 
 **Bachelor Thesis, Effect Prediction for NIPPV in Patients with Respiratory Failure[SAS]**              
-* •	Extracted variables that had significant impact on treatment and used logistic regression model to predict treatment result by analyzing 144 patients’ physical data;
-* •	Obtained two ways to improve the model regarding the nonlinear properties and factor analysis of independent variables, and developed model that can predict NIPPV treatment efficacy (accuracy rate>70%) effectively.                                 
+* •	Used logistic regression model to predict treatment effect using patients’ physical data                                 
 
-## Occupation
 
+# Occupation
 
 __Data Science Research Assistant__, George Washington University   
+[Blog](https://dataprograms.gwu.edu/overview/)   
+* • Analyzed Data Science Master programs and Data Scientist job market demand  *
+* • Developed GWU technical blog
 
-_**Contribution**_: Led a group of 4 graduate students to build program’s technical blog content, contributing primarily to the [_overview_](https://dataprograms.gwu.edu/overview/) and [_industry statistics_](https://dataprograms.gwu.edu/data-science-industry-statistics/) pages  
-- •	Proposed and implemented the idea to include data job industry analysis in research, coordinated web scraping data-related job availability, salary, and skill requirements information across the U.S., and visualized findings in Tableau
-- •	Created interactive Tableau dashboard with auto-filtering and auto-highlight to visualize Data Science programs’ curriculum structures and department contribution from 23 universities  
-  
 __Data Science Graduate Assistant__, George Washington University 
 
-- •	Tutor machine learning homework; help debug coding errors and direct current students and promising candidates to professors and program operation director  
-
-__Hellogwu.com Website Operation Team__
-
-- •	Update events and news about DC and monitor fraud in apartment information section for 230,000 registered users  
+__Hellogwu.com Website Operation Assistant__
 
 __InDC IOS APP Content Developer__
-
-- •	Write articles and cooperate with marketing team
  
-`2013 Summer`
 __Intern__, Ping ’an Insurance Company of China, Ltd.
 
-- •	Organized weekly activities including insurance seminars and touring and reached out to potential customers by phone about willingness to participate those activities
-
-`2012-2013`
 __Vice Minister of Organization Department__, Student Union of College of Mathematics, SCU      
-- •	Trained newly-recruited members and organized activities such as lectures, film watching and knowledge contests.
 
-## Awards
+
+# Awards
 * `05/2015` Outstanding Undergraduate Thesis（5%） 
 * `01/2015` Excellent Volunteer of SK Sunny Undergraduates Volunteer Service  
 * `11/2014` Second Class Scholarship   
 * `05/2013` Active Volunteer in Love Passing Voluntary Service of SCU  
 * `04/2013` Second Prize in Undergraduates Tennis Championship of SCU
 
-## Conference
+
+# Conference
 
 `DC, 10/09/2017` **DevFest DC 2017**  
 `DC, 05/15/2017-05/17/2017` **Know Identity Conference**  
@@ -110,38 +98,40 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 `DC, 03/04/2016-03/05/2016` **Open Data Day DC 2016**  
 
 
-## Volunteer
+# Volunteer
 
-`New Orleans, LA, 03/2017` **Urban Restoration in New Orleans**	                                             
-* •	Did fundraiser by working at the UMD football game and gift wrapping at Tyson Corner Center;
-* •	Traveled to New Orleans to rebuild homes in the areas of this southern city that continue to suffer from Hurricane Katrina.
+`New Orleans, LA, 03/2017` **Habitat for Humanity**	                                             
+* •	Rebuilt three houses in the areas of New Orleans that continue to suffer from Hurricane Katrina
+
 
 `Arlington, VA, 10/2016` **Marine Corp Marathon**	                                                        
 
 
 `Washington Monument Grounds, DC, 06/2016` **Moving day DC**                                         
+* • National Parkinson Fundraiser
 
 
 `DC, 04/2016` **DC Central Kitchen**
-* •	Prepared food for those experiencing homelessness.
+*  • Prepare food for homeless
+
 
 `Chengdu, China, 03/2014-06/2014` **SK Sunny Undergraduates Volunteer Service**	                         
-* •	Searched migrants' schools（schools for the children of migrants） around Chengdu and found the most suitable one for our activities; 
-* •	Organized monthly activities including Fun Science and Campus Visit to stimulate their desire for knowledge.
+* •	Helped children of migrants  
+
 
 `Chengdu, China, 05/2013` **Love Passing Voluntary Service**	                                         
-* •	Collected second-hand items from graduating students and held a charity bazaar;
-* •	Persuaded the organizer to donate remaining clothes to the animal shelter.
+* •	Collected and sold second-hand items from graduating students for charity fundraiser
 
-`Chengdu, China, 04/2013` **Initiator, volunteer in Shuangliu County after the Ya ’an earthquake**               
-* •	Volunteered to help loading relief supplies and checking the amount of donation from organizations.
+
+`Chengdu, China, 04/2013` **Volunteer for Ya’an earthquake**               
+
 
 `Chengdu, China, 04/2013-05/2013` **The Love-Package Volunteer Service**                                      
-* •	Raised funds for children in distant poverty-stricken areas.
+* •	Fundraiser for children in distant poverty-stricken areas.
 
 
 <!-- ### Footer
 
-Last updated: November 2017 -->
+Last updated: July, 2018 -->
 
 
