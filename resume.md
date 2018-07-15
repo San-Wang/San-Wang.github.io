@@ -5,11 +5,15 @@ layout: resume
 
 >[View Resume in PDF](/assets/Resume_San Wang_github.pdf)  
 
+
 ## Current
 
 •	**Operation Assistant**
 
-## Featured Work  
+## Featured Work 
+```
+click image for more information
+```   
 <div id="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9">...</div><script type="text/javascript">
 var cpo = []; cpo["_object"] ="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9"; cpo["_fid"] = "AwEALTuMiWbL";
 var _cpmp = _cpmp || []; _cpmp.push(cpo);
@@ -20,7 +24,8 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 201
 
 ## Profile in Tableau  
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Profile_25/Profile?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '700' scrolling='yes' ></iframe>    
-For better interactive experience, [click here](https://public.tableau.com/profile/san.wang#!/vizhome/Profile_25/Profile)  
+
+Note: For better interactive experience, click [*here*](https://public.tableau.com/profile/san.wang#!/vizhome/Profile_25/Profile)  
 
 ## Education
 
