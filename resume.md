@@ -5,14 +5,24 @@ layout: resume
 
 >[View Resume in PDF](/assets/Resume_San Wang_github.pdf)  
 
-# Current
+## Current
 
 •	**Operation Assistant**
 
+## Featured Work  
+<div id="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9"; cpo["_fid"] = "AwEALTuMiWbL";
+var _cpmp = _cpmp || []; _cpmp.push(cpo);
+(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+var c = document.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 2018/7/15</span><span>Data Science Master Programs Class  Distribution</span><span>Work as GWU Research Assistant</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 2550</span><span>height</span><span> 1532</span><span>Data Science Master Program Department Contribution</span><span>Work as GWU Research Assistant</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 2550</span><span>height</span><span> 1532</span><span>Data Scientist Job Market Demand across U.S.</span><span>Work as GWU Research Assistant</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 2550</span><span>height</span><span> 1532</span><span>Computer Vision Project</span><span>German Traffic Sign Recognition Project</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 2550</span><span>height</span><span> 1532</span><span>Movie Recommendation System</span><span>Data Overview</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 2550</span><span>height</span><span> 1532</span><span>Class Project</span><span>Scholar candidate analysis</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 2550</span><span>height</span><span> 1532</span></noscript>  
+
+## Profile in Tableau  
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Profile_25/Profile?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '700' scrolling='yes' ></iframe>    
 For better interactive experience, [click here](https://public.tableau.com/profile/san.wang#!/vizhome/Profile_25/Profile)  
 
-# Education
+## Education
 
 `2016 - 2017`
  __George Washington University__
@@ -23,7 +33,7 @@ __Sichuan University__
 * B.S. in Mathematics, concerntration on Statistics 
 
 
-# Feature Skills    
+## Feature Skills    
 
 ```
  • Solid background in advanced mathematics, statistical and machine learning modeling 
@@ -38,7 +48,7 @@ __Sichuan University__
 ```
 
 
-# Major Researches  
+## Major Researches  
 
 **Movie Recommendation System [Python]**  
 [(Demo)](https://san-wang.github.io/blog/Movie_Recommender/)                  
@@ -60,7 +70,7 @@ __Sichuan University__
 * •	Used logistic regression model to predict treatment effect using patients’ physical data                                 
 
 
-# Occupation
+## Occupation
 
 __Data Science Research Assistant__, George Washington University   
 [Blog](https://dataprograms.gwu.edu/overview/)   
@@ -78,7 +88,7 @@ __Intern__, Ping ’an Insurance Company of China, Ltd.
 __Vice Minister of Organization Department__, Student Union of College of Mathematics, SCU      
 
 
-# Awards
+## Awards
 * `05/2015` Outstanding Undergraduate Thesis（5%） 
 * `01/2015` Excellent Volunteer of SK Sunny Undergraduates Volunteer Service  
 * `11/2014` Second Class Scholarship   
@@ -86,7 +96,7 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 * `04/2013` Second Prize in Undergraduates Tennis Championship of SCU
 
 
-# Conference
+## Conference
 
 `DC, 10/09/2017` **DevFest DC 2017**  
 `DC, 05/15/2017-05/17/2017` **Know Identity Conference**  
@@ -98,7 +108,7 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 `DC, 03/04/2016-03/05/2016` **Open Data Day DC 2016**  
 
 
-# Volunteer
+## Volunteer
 
 `New Orleans, LA, 03/2017` **Habitat for Humanity**	                                             
 * •	Rebuilt three houses in the areas of New Orleans that continue to suffer from Hurricane Katrina
