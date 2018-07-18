@@ -24,6 +24,7 @@ excerpt: "About Me"
 
 ### Featured Work  
 ```
+click play to enable 'magic'  
 click image for more information
 ```   
 <div id="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9">...</div><script type="text/javascript">
