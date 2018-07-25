@@ -11,6 +11,6 @@ GWU Libraries workshop "[Build a Professional Website With GitHub Pages](https:/
 Useful:  
 * Jekyll academic workshop handout.pdf provided by GWU library
 * [Site structure with risky levels](https://ncsu-libraries.github.io/jekyll-academic-docs/advanced/#using-jekyll-locally)
-* [Jekyll Academic Template](https://ncsu-libraries.github.io/jekyll-academic-docs/documentation/)
+* [Jekyll Academic Doc](https://ncsu-libraries.github.io/jekyll-academic-docs/documentation/)[(github)](https://github.com/NCSU-Libraries/jekyll-academic-docs)  
 * [Minimal Mistakes Theme](https://mmistakes.github.io/minimal-mistakes/)
 * [Jekyll](https://jekyllrb.com/)
