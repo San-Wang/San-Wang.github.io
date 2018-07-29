@@ -19,11 +19,11 @@ After spending a lot of time searching online on how to embed tableau dashboard 
 >5. Auto fit Tableau dashboard with iframe size  
 >6. Adjust iframe size for better view in mobile
 
-[x] adjust iframe size
-[x] hide Tableau software redundant part
-[x] seamless 
-[x] auto-fit dashboard within iframe
-[] Adjust iframe size for better view in mobile
+[x] adjust iframe size  
+[x] hide Tableau software redundant part  
+[x] seamless   
+[x] auto-fit dashboard within iframe  
+[ ] Adjust iframe size for better view in mobile   
 
 
 ## 1. Basic embed code:  
