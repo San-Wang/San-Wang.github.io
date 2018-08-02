@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Movie Recommender System in Python
-excerpt: "Machine Learning - Recommendation System"
+excerpt: "Recommendation System - Mixed Machine Learning"
 modified: 06/05/2018, 1:55
 tags: [Python, Flask, NLP, Recommendation System]
 comments: true
