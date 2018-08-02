@@ -2,17 +2,21 @@
 Put together useful markdown code I frequently use for writing blogs in my portfolio website.   
 
 All example follows this style:  
-#### name
 ```
-code
-```  
-Result  
+* name
+
+* code
+ 
+* Result  
+```
+
 ------------------  
 #### Block quote  
 ```
 >Block quote
 ```  
 >Block quote  
+
 
 #### Backgroud Highlight  
 ~~~ ruby
@@ -27,7 +31,6 @@ Result
 ![traffic sign](/images/GTSRB/imshow_original.png)
 ```  
 ![traffic sign](/images/GTSRB/imshow_original.png)
-
 
 #### Adjust image size using html style  
 ```
