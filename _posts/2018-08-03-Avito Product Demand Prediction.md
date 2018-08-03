@@ -2,7 +2,7 @@
 layout: post
 title: Avito Product Demand Prediction  
 exceprt: Machine Learning
-modified: 2018-08-03
+modified: 2018/08/03
 tags: [Machine Learning, NLP, Computer Vision]
 comments: true
 category: blog
