@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Avito Product Demand Prediction
-exceprt: Machine Learning - NLP, Computer Vision
+title: Avito Product Demand Prediction  
+exceprt: Machine Learning
 modified: 2018-08-03
 tags: [Machine Learning, NLP, Computer Vision]
 comments: true
@@ -12,7 +12,7 @@ category: blog
 
 [Data Source](https://www.kaggle.com/c/avito-demand-prediction/data)  
 
-1. dataset structure  
+## 1. dataset structure  
     * item_id - Ad id.
     * user_id - User id.
     * region - Ad region.
@@ -33,20 +33,20 @@ category: blog
     * deal_probability - The target variable.
 
 
-2. methods to preprocessing each type  
+## 2. methods to preprocessing each type  
     2.1. text  
     2.2. images  
     2.3. time series    
     
 
->2.1 text data
+#### 2.1 text data
 
 * stemming
 * tf  
 * tf-idf  
 * text statistics (#words, #char, caps, alphanum)  
 
->2.2 image data 
+#### 2.2 image data 
 
 [reference](https://www.kaggle.com/c/avito-demand-prediction/discussion/59880#349563)  
 * image features
@@ -65,7 +65,7 @@ category: blog
     * [classification confidence](https://www.kaggle.com/wesamelshamy/high-correlation-feature-image-classification-conf)  
     [pipeline](https://www.kaggle.com/peterhurford/image-feature-engineering)  
 
->2.3 Time Series   
+#### 2.3 Time Series   
 
 * day
 * period
@@ -75,10 +75,10 @@ A interesting way to encode numeric variables using percentage, like price, item
 log1p(price) and log1p(item_seq_number)
 
 
-3. challenges
+## 3. challenges
     * Random Forest takes forever to tune parameters 
         Solution: change to [lightGBM](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/lightgbm.pdf)
-    * Images size exceeded memory
+    * Images size exceeded memory  
 
 
 
