@@ -73,10 +73,11 @@ A interesting way to encode numeric variables using percentage, like price, item
 log1p(price) and log1p(item_seq_number)
 
 
-## 3. challenges
-    * Random Forest takes forever to tune parameters 
+## 3. challenges  
+
+* Random Forest takes forever to tune parameters  
         Solution: change to [lightGBM](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/lightgbm.pdf)
-    * Images size exceeded memory  
+* Images size exceeded memory  
 
 
 
