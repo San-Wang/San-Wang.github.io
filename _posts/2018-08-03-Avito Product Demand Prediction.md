@@ -76,8 +76,10 @@ log1p(price) and log1p(item_seq_number)
 ## 3. challenges  
 
 * Random Forest takes forever to tune parameters  
-        Solution: change to [lightGBM](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/lightgbm.pdf)
+      Solution: change to [lightGBM](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/lightgbm.pdf)
 * Images size exceeded memory  
+      [explore image data in training and testing (zipfile,hashing)](https://www.kaggle.com/jpmiller/comparing-test-images-to-train-images)  
+      [keras model on image (zipfile)](https://www.kaggle.com/classtag/extract-avito-image-features-via-keras-vgg16/notebook)
 
 
 
