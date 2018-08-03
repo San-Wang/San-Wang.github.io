@@ -7,7 +7,7 @@ Blog post front matter template:
 layout: post
 title: title
 excerpt: "original serve as abstract, I use it to display tags underneath blog title"
-exceprt: "tags - sub"
+excerpt: "tags - sub"
 modified: yyyy-mm-dd 20:41:38
 tags: [Machine Learning, Visualization, Articles, Recommendation System]
 comments: true
