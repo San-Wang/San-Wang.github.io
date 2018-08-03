@@ -9,9 +9,6 @@ category: blog
 ---  
 
 
-
-# Avito Product Demand Project  
-
 [Data Source](https://www.kaggle.com/c/avito-demand-prediction/data)  
 
 ## 1. dataset structure  
