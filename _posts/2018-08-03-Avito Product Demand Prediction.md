@@ -11,7 +11,7 @@ category: blog
 
 [Data Source](https://www.kaggle.com/c/avito-demand-prediction/data)  
 
-## 1. dataset structure  
+## 1. dataset description  
     * item_id - Ad id.
     * user_id - User id.
     * region - Ad region.
@@ -32,7 +32,7 @@ category: blog
     * deal_probability - The target variable.
 
 
-## 2. methods to preprocessing each type  
+## 2. Lookup list for methods to preprocess following types  
     2.1. text  
     2.2. images  
     2.3. time series    
@@ -61,13 +61,12 @@ category: blog
     pixel frequency  
     * size
     * blurrness(Variation Laplacian)  
-    * [classification confidence](https://www.kaggle.com/wesamelshamy/high-correlation-feature-image-classification-conf)  
-    [pipeline](https://www.kaggle.com/peterhurford/image-feature-engineering)  
+    * [classification confidence](https://www.kaggle.com/wesamelshamy/high-correlation-feature-image-classification-conf) [(pipeline)](https://www.kaggle.com/peterhurford/image-feature-engineering)  
 
 #### 2.3 Time Series   
 
-* day
-* period
+* day (Mon-Sun)
+* duration
 
 Note:  
 A interesting way to encode numeric variables using percentage, like price, item_seq_number:  
