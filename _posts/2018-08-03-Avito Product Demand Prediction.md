@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Traffic Sign Recognition using Convolutional Neural Network (Tensorflow)
+title: Avito Product Demand Prediction  
 excerpt: "Machine Learning - Image Classification"
-modified: 12/19/2017, 11:20
-tags: [CNN, Tensorflow, Classification]
+modified: 08/03/2018, 11:20
+tags: [Machine Learning, NLP, Computer Vision]
 comments: true
 category: blog
 ---  
+
 
 
 # Avito Product Demand Project  
