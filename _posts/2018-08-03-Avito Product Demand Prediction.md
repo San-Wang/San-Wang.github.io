@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Avito Product Demand Prediction  
-excerpt: "Machine Learning - Image Classification"
-modified: 08/03/2018, 11:20
+excerpt: "Machine Learning - NLP"
+modified: 08/03/2018
 tags: [Machine Learning, NLP, Computer Vision]
 comments: true
 category: blog
