@@ -6,13 +6,13 @@ excerpt: "About Me"
 
 # My Passion:  
 
-### More efficient:  
+### 1. Bring more efficient:  
 ```  
 Promoting the transformation of online platforms from   
 the role of providers -> efficient & personized assistants  
 ```
 
-### More value:  
+### 2. Bring more value:  
 ```
 Transfer data insight into value in business problems  
 ```  
