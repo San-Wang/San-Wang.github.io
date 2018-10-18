@@ -6,7 +6,7 @@ excerpt: "About Me"
 
 # My Passion:  
 
-### 1. Bring more efficient:  
+### 1. Bring more efficiency:  
 ```  
 Promoting the transformation of online platforms from   
 the role of providers -> efficient & personized assistants  
