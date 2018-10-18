@@ -8,9 +8,11 @@ excerpt: "About Me"
 
 - More efficient:  
 ```  
-Promoting the transformation of online platforms from the role of providers to efficient&personized assistants  
-```  
-- More value:   
+Promoting the transformation of online platforms from 
+the role of providers -> efficient & personized assistants  
+```
+
+- More value:
 ```
 Transfer data insight into value in business problems  
 ```  
