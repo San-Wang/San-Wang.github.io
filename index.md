@@ -6,7 +6,7 @@ excerpt: "About Me"
 
 ### My Passion:  
 
-- More efficient: Getting more relevant things into users' hands  
+- More efficient: Promoting the transformation of online platforms from the role of providers to efficient&personized assistants  
 - More value: Transfer data insight into value in business problems  
 
 
@@ -14,7 +14,7 @@ excerpt: "About Me"
 
 - Recommendation System
 
-- Data-driven decision making using structured and unstructure data together 
+- Data-driven decision making using structured and unstructure data together(NLP&CV)  
 
 ### Projects:  
 - [Recommendation System](https://san-wang.github.io/blog/Movie_Recommender/)   
