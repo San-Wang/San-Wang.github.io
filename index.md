@@ -8,7 +8,7 @@ excerpt: "About Me"
 
 - More efficient:  
 ```  
-Promoting the transformation of online platforms from 
+Promoting the transformation of online platforms from   
 the role of providers -> efficient & personized assistants  
 ```
 
