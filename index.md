@@ -4,18 +4,15 @@ excerpt: "About Me"
 ---       
 
 
-# My Passion:  
+### My Passion:  
 
-### 1. Bring more efficiency:  
-```  
+- 1. Bring more efficiency:   
 Promoting the transformation of online platforms from   
 the role of providers -> efficient & personized assistants  
-```
 
-### 2. Bring more value:  
-```
+- 2. Bring more value:  
 Transfer data insight into value in business problems  
-```  
+
 
 ### Current Interests:  
 
