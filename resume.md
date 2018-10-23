@@ -8,7 +8,7 @@ layout: resume
 
 ## Current
 
-•	**Operation Assistant**
+•	**Data Scientist**
 
 ## Featured Work 
 ```
@@ -42,15 +42,11 @@ __Sichuan University__
 ## Feature Skills    
 
 ```
- • Solid background in advanced mathematics, statistical and machine learning modeling 
+ • Advanced mathematics, statistical modeling and machine learning 
  • 3+ years experience in data analysis    
- • Proficient with Python (Tensorflow, scikit-learn, Caffe, EDA), Tableau, MySQL, Git  
-          >Computer Vision  
-          >NLP
-          >Modeling  
-          >ETL  
+ • Software: Python (Tensorflow, keras, scikit-learn, Caffe, EDA), Spark, Tableau, postgresql, MySQL, R, Google Cloud Platform, Git  
+ •	Technique: ETL, NLP, Recommendation System, Neural Network, Modeling, Data Mining, Data Visualization, Data Cleaning  
    
- • Familiar with Docker, SAS, SPSS  
 ```
 
 
@@ -58,19 +54,19 @@ __Sichuan University__
 
 **Movie Recommendation System [Python]**  
 [(Demo)](https://san-wang.github.io/blog/Movie_Recommender/)                  
-* •	Designed and developed a Flask web API with mySQL as database to provide live movie recommendations from scratch
-* •	Content base/ item base/ user base recommendation  
+* •	Designed and developed a Flask web API backed with Postgre/mySQL as database to provide live movie recommendations  
+* •	Algorithms: Content base/ similarity-based CF/ matrix factorization CF 
+
+**Product Demand Analysis [Python]**  
+* •	Predicted product demand for an online ads platform by analyzing users and products’ unstructured (title and description in Russian, images) and structured data (price, category, location and time)
+
+**Customer Value Analysis [Python]**                                   
+* •	Predicted valuable credit card customers based on payment history, bill statement history and some background information 
 
 **Master Thesis, German Traffic Sign Classification [Python]**
 [Implementation in Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)   
 [Implementation in Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
 * •	Image classification neural network comparison between Caffe and Tensorflow
-
-**Product Demand Analysis [Python]**  
-* •	Predicted product posting demand of a classified advertisements website 
-
-**Customer Value Analysis [Python]**                                   
-* •	Predicted valuable credit card customers based on payment history, bill statement history and some background information  
 
 **Bachelor Thesis, Effect Prediction for NIPPV in Patients with Respiratory Failure[SAS]**              
 * •	Used logistic regression model to predict treatment effect using patients’ physical data                                 
@@ -78,10 +74,10 @@ __Sichuan University__
 
 ## Occupation
 
-__Data Science Research Assistant__, George Washington University   
+__NLP Research Assistant__, George Washington University   
 [Blog](https://dataprograms.gwu.edu/overview/)   
-* • Analyzed Data Science Master programs and Data Scientist job market demand  *
-* • Developed GWU technical blog
+* • Analyze top technical skills demand, market demand and supply of data scientists across U.S.
+* • Developed GWU technical blog  
 
 __Data Science Graduate Assistant__, George Washington University 
 
@@ -148,6 +144,6 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 
 <!-- ### Footer
 
-Last updated: July, 2018 -->
+Last updated: October, 2018 -->
 
 
