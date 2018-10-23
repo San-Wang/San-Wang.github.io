@@ -52,10 +52,10 @@ __Sichuan University__
 
 ## Major Researches  
 
-**Movie Recommendation System [Python]**  
+**Movie Recommendation System [Python/Spark]**  
 [(Demo)](https://san-wang.github.io/blog/Movie_Recommender/)                  
 * •	Designed and developed a Flask web API backed with Postgre/mySQL as database to provide live movie recommendations  
-* •	Algorithms: Content base/ similarity-based CF/ matrix factorization CF 
+* •	Algorithms: Content-based recommendation/ similarity-based CF/ matrix factorization CF 
 
 **Product Demand Analysis [Python]**  
 * •	Predicted product demand for an online ads platform by analyzing users and products’ unstructured (title and description in Russian, images) and structured data (price, category, location and time)
@@ -63,7 +63,7 @@ __Sichuan University__
 **Customer Value Analysis [Python]**                                   
 * •	Predicted valuable credit card customers based on payment history, bill statement history and some background information 
 
-**Master Thesis, German Traffic Sign Classification [Python]**
+**Master Thesis, German Traffic Sign Classification [Python/Tensorflow]**
 [Implementation in Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)   
 [Implementation in Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
 * •	Image classification neural network comparison between Caffe and Tensorflow
