@@ -8,9 +8,7 @@ comments: true
 category: blog
 ---
 
-# This blog is still under testing.  
-
-I am starting to upload my results. Detail tutorial will come later.   
+This blog is still updating, detailed tutorial will come later.   
 
 Training Accuracy:  
 <img src="/images/GTSRB/Tensorflow/accuracy.png">  
