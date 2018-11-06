@@ -17,7 +17,8 @@ Transfer data insight into value in business problems
 ### Projects:  
 - [Recommendation System](https://san-wang.github.io/blog/Movie_Recommender/)   
 - [NLP: Data Scientist market demand with academic supply research analysis](https://dataprograms.gwu.edu/overview/)  
-- [Computer Vision: German Traffic Sign Recognition(CNN)](https://san-wang.github.io/blog/GTSRB_Caffe/)  
+- [NLP: Product Demand Prediction](https://san-wang.github.io/blog/Avito-Product-Demand-Prediction/)  
+- [Computer Vision: German Traffic Sign Classification(CNN)](https://san-wang.github.io/blog/GTSRB_Caffe/)  
   - [in Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
   - [in Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)  
 
