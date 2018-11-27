@@ -15,6 +15,7 @@ Transfer data insight into value in business problems
 
 
 ### Projects:  
+- [ImageClassifier Package](https://github.com/San-Wang/ImageClassifer)  
 - [Recommendation System](https://san-wang.github.io/blog/Movie_Recommender/)   
 - [NLP: Data Scientist market demand with academic supply research analysis](https://dataprograms.gwu.edu/overview/)  
 - [NLP: Product Demand Prediction](https://san-wang.github.io/blog/Avito-Product-Demand-Prediction/)  
