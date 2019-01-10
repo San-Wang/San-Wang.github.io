@@ -8,7 +8,7 @@ layout: resume
 
 ## Current
 
-•	**Data Scientist**
+•	**Computer Vision Research Associate**
 
 ## Featured Work 
 ```
@@ -73,6 +73,8 @@ __Sichuan University__
 
 
 ## Occupation
+
+__Computer Vision Research Associate__, Harvard Medical School  
 
 __NLP Research Assistant__, George Washington University   
 [Blog](https://dataprograms.gwu.edu/overview/)   
@@ -144,6 +146,6 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 
 <!-- ### Footer
 
-Last updated: October, 2018 -->
+Last updated: Janurary, 2019 -->
 
 
