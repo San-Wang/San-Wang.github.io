@@ -3,7 +3,7 @@ layout: resume
 ---  
 
 
->[View Resume in PDF](/assets/Resume_San Wang_github.pdf)  
+>[**Click to view Resume in PDF**](/assets/Resume_San Wang_github.pdf)  
 
 
 ## Current
@@ -78,8 +78,6 @@ __Computer Vision Research Associate__, Harvard Medical School
 
 __NLP Research Assistant__, George Washington University   
 [Blog](https://dataprograms.gwu.edu/overview/)   
-* • Analyze top technical skills demand, market demand and supply of data scientists across U.S.
-* • Developed GWU technical blog  
 
 __Data Science Graduate Assistant__, George Washington University 
 
@@ -146,6 +144,6 @@ __Vice Minister of Organization Department__, Student Union of College of Mathem
 
 <!-- ### Footer
 
-Last updated: Janurary, 2019 -->
+Last updated: March, 2019 -->
 
 
