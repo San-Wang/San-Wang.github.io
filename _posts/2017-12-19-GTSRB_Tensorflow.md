@@ -8,14 +8,9 @@ comments: true
 category: blog
 ---
 
-This blog is still updating, detailed tutorial will come later.   
+This artical contains training result from tensorboard, more detail about Traffic Sign Recognition can be found in [this blog](https://san-wang.github.io/blog/GTSRB_Caffe/).  
 
-Training Accuracy:  
-<img src="/images/GTSRB/Tensorflow/accuracy.png">  
-Training Loss:  
-<img src="/images/GTSRB/Tensorflow/loss.png">  
-
-The evolution of interesting things we want to take a look at while training:  
+Take a deep look at what are inside the model while training:   
 (note that "step" in the following mean epoch, not iteration)  
 Kernels for Layer One:  
 <iframe src="https://giphy.com/embed/3ohc15AY4PdOlXzwDm" width="352" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kernel-3ohc15AY4PdOlXzwDm">via GIPHY</a></p>  
@@ -23,4 +18,7 @@ Kernels for Layer One:
 Feature Map for Layer One:   
 <iframe src="https://giphy.com/embed/l49JYzvTeUUyhaktG" width="350" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/featuremap-l49JYzvTeUUyhaktG">via GIPHY</a></p>
 
-
+Training Accuracy:  
+<img src="/images/GTSRB/Tensorflow/accuracy.png">  
+Training Loss:  
+<img src="/images/GTSRB/Tensorflow/loss.png">  
