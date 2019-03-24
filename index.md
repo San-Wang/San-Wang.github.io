@@ -11,7 +11,7 @@ excerpt: "About Me"
   * Transform recommendation system from heavily relying on user information -> exploring network among products  
 
 - Bring more value:  
-Integrate various form of information(numeric, text, image) to help decision making be more thorough and closer to truth. Data Science together with computer vision and natural language process inspire each other.  
+  * Integrate various form of information(numeric, text, image) to help decision making be more thorough and closer to truth. Data Science together with computer vision and natural language process inspire each other.  
 
 ### Projects:  
 - [ImageClassifier Package](https://github.com/San-Wang/ImageClassifer)  
