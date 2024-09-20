@@ -14,9 +14,9 @@ __Sichuan University__
 
 ## Publications
 
-* •	**Wang S**, Han J, Jung SY, et al. Development and implementation of patient-level prediction models of end-stage renal disease for type 2 diabetes patients using fast healthcare interoperability resources. Sci Rep. 2022;12(1):11232. Published 2022 Jul 4. doi:10.1038/s41598-022-15036-6
+**Wang S**, Han J, Jung SY, et al. Development and implementation of patient-level prediction models of end-stage renal disease for type 2 diabetes patients using fast healthcare interoperability resources. Sci Rep. 2022;12(1):11232. Published 2022 Jul 4. doi:10.1038/s41598-022-15036-6
 
-* •	Koker TE, S.S. Chintapalli, **Wang S**, et al. On Identification and Retrieval of Near-Duplicate Biological Images: a New Dataset and Protocol. Published online January 10, 2021. doi:https://doi.org/10.1109/icpr48806.2021.9412849
+Koker TE, S.S. Chintapalli, **Wang S**, et al. On Identification and Retrieval of Near-Duplicate Biological Images: a New Dataset and Protocol. Published online January 10, 2021. doi:https://doi.org/10.1109/icpr48806.2021.9412849
 
 ## Work
 
@@ -78,16 +78,16 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 201
 ## Community Involvement  
 
 `Boston, 2021-2024` Athlete, CYPN STORM Dragon Boat Club  
-    •	2023 Rhode Island Race: Mixed Division 3rd Place  
-    •	2023 Boston Dragon Boat Festival: Club Division 2nd Place; A Major Division 3rd Place  
-    •	2022 Rhode Island Race (Captain): Mixed Division 1st Place  
-    •	2022 Mercer GWN Race: Sport Women Division 3rd Place  
-    •	2022 Riverfront Hartford Race: A Division 2nd Place  
-    •	2022 IDBF 13th Club Crew World Championship: Premier Mixed Division Participant  
-    •	2022 Boston Dragon Boat Festival: Club Division 1st Place; Women Division 1st Place; A Major Division 3rd Place  
-    •	2021 USDBF Club Crew National Championships: Premier Mixed Division Participant  
-    •	2021 Mercer GWN Race: Sport Mixed Division 2nd Place  
-    •	2021 ERDBA Regional Championship: Premier Mixed Division 2nd Place  
+* •	2023 Rhode Island Race: Mixed Division 3rd Place  
+* •	2023 Boston Dragon Boat Festival: Club Division 2nd Place; A Major Division 3rd Place  
+* •	2022 Rhode Island Race (Captain): Mixed Division 1st Place  
+* •	2022 Mercer GWN Race: Sport Women Division 3rd Place  
+* •	2022 Riverfront Hartford Race: A Division 2nd Place  
+* •	2022 IDBF 13th Club Crew World Championship: Premier Mixed Division Participant  
+* •	2022 Boston Dragon Boat Festival: Club Division 1st Place; Women Division 1st Place; A Major Division 3rd Place  
+* •	2021 USDBF Club Crew National Championships: Premier Mixed Division Participant  
+* •	2021 Mercer GWN Race: Sport Mixed Division 2nd Place  
+* •	2021 ERDBA Regional Championship: Premier Mixed Division 2nd Place  
 `New Orleans, LA, 03/2017` Habitat for Humanity  
 `Arlington, VA, 10/2016` Marine Corp Marathon  
 `Washington Monument Grounds, DC, 06/2016` Moving day DC (National Parkinson Fundraising)  
