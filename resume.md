@@ -106,9 +106,8 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 201
 
 ## Conference
 
-`Cambridge, 03/06/2020` 2020 Women in Data Science (WiDS) Cambridge 
-`Ann Arbor, 08/08/2019-08/10/2019` 2019 Machine Learning for Healthcare 
-`Cambridge, 03/04/2019` 2019 Women in Data Science (WiDS) Cambridge  
+`Cambridge, 2019, 2020` Women in Data Science (WiDS) Cambridge 
+`Ann Arbor, 08/08/2019-08/10/2019` Machine Learning for Healthcare 
 `DC, 10/09/2017` DevFest DC 2017  
 `DC, 05/15/2017-05/17/2017` Know Identity Conference  
 `DC, 05/05/2017-05/06/2017` DevFest DC 2017  
