@@ -1,17 +1,14 @@
 ---
 layout: post
 title: Traffic Sign Recognition using Convolutional Neural Network (Caffe)
-excerpt: "Machine Learning - Image Classification"
+excerpt: "Deep Learning - Image Classification"
 modified: 2018/07/13
-tags: [Machine Learning]
+tags: [Computer Vision, CNN, Classification]
 comments: true
 category: blog
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 ---
 
-# Preview:   
+## Preview:   
 A overview of what I will cover in my blog: 
 
 >1. Data Description
@@ -30,12 +27,12 @@ A overview of what I will cover in my blog:
 
 I will post a high level description of this project once I get it done  
 
-# 1. Data Description
+## 1. Data Description
 This dataset comes from [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset), which contains 39209 images in 43 folders and each folder contain one same kind of traffic sign images taking from different places and at different distance. And the size of the images varies from 30 * 30 pixel to larger than 100 * 100 pixel. Here is how the data fold looks once you download:  
 
 <img src="/images/GTSRB/Dataset.png">  
 
-# 2. Problem Definition  
+## 2. Problem Definition  
 
 Problem type: Image classification  
 
@@ -54,8 +51,9 @@ Task:
 * vii. Visualize the test result
 
 
-# 3. Data Preparation
-## 3.1 Add image label into its file name
+## 3. Data Preparation
+
+### 3.1 Add image label into its file name
 I use two for loops to be able to automatically go through all 43 folders and transfer all .ppm files into .jpg.  
 Note: transfer image.ppm to image.jpg is not necessary, you can use any format as long as it is supported by openCV to creat .lmdb data file.   
 
@@ -80,7 +78,7 @@ for f in range(0,43):
 ~~~
 In this step, I separate 1/3 of my dataset into testing images (13070) and the rest as training images (26139) by if the name of the images can be divided by three. And here I add the label of the image(format(f,’02d’)) in front of the image name, which will be helpful to define the label for each image later. Now I have all training images in one folder and so do testing images. Next step is to create lmdb file based on those images. 
 
-## 3.2 Create .lmdb data file
+### 3.2 Create .lmdb data file
 For image preprocessing, I use histogram equalization to the image for adjusting image intensities to enhance contrast and resize the image to 80 * 80. 
 ~~~ ruby
 IMAGE_WIDTH = 80
@@ -110,11 +108,11 @@ Here are some comparison before I choose use the size = 80:
 
 Considering my computational power and the clearness of images, I decide to use 80 * 80.
 
-## 3.3 Compute image mean file .binaryproto using .lmdb file
+### 3.3 Compute image mean file .binaryproto using .lmdb file
 
 I use caffe library tool [compute_image_mean](https://github.com/BVLC/caffe/blob/master/tools/compute_image_mean.cpp) to compute mean getting mean.binaryproto file.
 
-# 4. Build network structure
+## 4. Build network structure
 
 Considering a network layers' instruction from [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/#layersizepat):  
 ![Layer](/images/GTSRB/Layer.png)  
@@ -123,7 +121,7 @@ My network structure is the following:
 
 <img src="/images/GTSRB/Network.png" width="300px" height="600px">  
 
-# 5. Train network  
+## 5. Train network  
 
 In my training processing, the parameters I use are the following:  
 
@@ -156,7 +154,7 @@ One example output of image recoganiztion with probability of all 43 labels:
 ![prob](/images/GTSRB/Prob.png)  
 In this example, the image is categotized as label 31 since it has the highest probability. 
 
-# 6. Test the network with new images
+## 6. Test the network with new images
 
 To save trained modole can be done by adding just one command:  
 ~~~ ruby
@@ -225,7 +223,7 @@ layer {
 
 
 
-# 7. Test Result 
+## 7. Test Result 
 The final testset contains 12630 new traffic sign images in random order. Here is my full prediction result:   
 
 >[German Traffic Sign Recognition Benchmark testset prediction](https://github.com/San-Wang/GTSRB/blob/master/TestResult_Final_Short.csv)  
@@ -239,7 +237,7 @@ The meaning of columns in my test result:
 |-------|---------|--------------|------|----------|---------|------------|
 |Image name|Correct label|Class that predicted by network|Probability of the predict class|Second likely predict class| probability of second predict class|1 for right,0 for wrong| 
 
-# 8. Tableau report of model performance  
+## 8. Tableau report of model performance  
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '600' scrolling='yes' ></iframe>   
 

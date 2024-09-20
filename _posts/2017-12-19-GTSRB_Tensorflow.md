@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Traffic Sign Recognition using Convolutional Neural Network (Tensorflow)
-excerpt: "Machine Learning - Image Classification"
+excerpt: "Deep Learning - Image Classification"
 modified: 12/19/2017, 11:20
 tags: [CNN, Tensorflow, Classification]
 comments: true

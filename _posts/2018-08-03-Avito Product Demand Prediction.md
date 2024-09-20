@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avito Product Demand Prediction  
-excerpt: "Machine Learning - NLP"
+excerpt: "Deep Learning - NLP & CV"
 modified: 08/03/2018
 tags: [Machine Learning, NLP, Computer Vision]
 comments: true

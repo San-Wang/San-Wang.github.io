@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Movie Recommender System in Python
-excerpt: "Recommendation System - Mixed Machine Learning"
+excerpt: "Recommendation System"
 modified: 06/05/2018, 1:55
 tags: [Python, Flask, NLP, Recommendation System]
 comments: true
@@ -9,7 +9,7 @@ category: blog
 ---
 
 ## Overview  
-A  recommendation system using content-based & collaborative filtering methods.   
+A recommendation system using content-based & collaborative filtering methods.   
 Here is a workflow overview about the demo:  
 ![workflow](/images/Recommender/workflow.png)  
 

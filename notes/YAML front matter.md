@@ -24,6 +24,7 @@ Tags tree:
 |-- Articles
 |-- Recommendation System
 |-- Machine Learning
+|-- Deep Learning
 |   |-- Computer Vision
 |       |-- Image Classification
 |       |-- Image Segementation
@@ -35,7 +36,7 @@ Features want to add in the future:
 ```
 ---
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 ```
