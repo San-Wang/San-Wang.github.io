@@ -7,12 +7,13 @@ sitemap: false
  *  Minimal Mistakes
  *
  *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
+ *  Twitter: https://twitter.com/mmistakes
  *
 */
 
 // Partials
-@import "../accent";
+$highlightcolor: {{ site.highlight-color }};
+$lowlightcolor: {{ site.lowlight-color }};
 @import "resume";
 @import "variables";
 @import "grid";

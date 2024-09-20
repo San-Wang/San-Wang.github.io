@@ -1,7 +1,9 @@
 ---
 layout: page
 excerpt: "About Me"
----  
+menutitle: Home
+menuorder: 1
+---
 
 
 ### My Passion:  
@@ -14,12 +16,12 @@ excerpt: "About Me"
   * Protect privacy  
 
 ### Projects:  
-- [[CV] ImageClassifier Package](https://github.com/San-Wang/ImageClassifer)  
+- [ImageClassifier Package](https://github.com/San-Wang/ImageClassifer)  
 - Fashion Product Discovery App (Glancer)  
-- [[MySQL|Spark|Flask] Movie Recommendation System](https://san-wang.github.io/blog/Movie_Recommender/)  
-- [[NLP|CV] Product Demand Prediction](https://san-wang.github.io/blog/Avito-Product-Demand-Prediction/)  
-- [[NLP|Tableau] Data Scientist market demand with academic supply research analysis](https://dataprograms.gwu.edu/overview/)  
-- [[CV] German Traffic Sign Classification](https://san-wang.github.io/blog/GTSRB_Caffe/)  
+- [Movie Recommendation System](https://san-wang.github.io/blog/Movie_Recommender/)  
+- [Product Demand Prediction](https://san-wang.github.io/blog/Avito-Product-Demand-Prediction/)  
+- [Data Scientist Job Market Skill Demand with Academic Curriculum Design](https://dataprograms.gwu.edu/overview/)  
+- [German Traffic Sign Classification](https://san-wang.github.io/blog/GTSRB_Caffe/)  
   - [in Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
   - [in Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)  
-- [SPSS|SAS] NIPPV Treatment Effect Prediction for patients with respiratory failure  
+- NIPPV Treatment Effect Prediction for Patients With Respiratory Failure  

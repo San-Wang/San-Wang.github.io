@@ -1,17 +1,16 @@
 # Site wide configuration
 
-title:            Portfolio
-locale:           en_US
-logo:             # filename of a logo image that has been placed into your images directory 
-# If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
-# url: /jekyll-academic
+title: Portfolio
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
 # Enter the following platform usernames if you would like for them to appear on your site.
-# Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
   name: San Wang
   avatar: 2024profile.png
   bio: "Direction is more important than speed"
   email: sanwang@gwu.edu
+  # Do not include the @ symbol in your Twitter username
   twitter: #username
   facebook: #username
   instagram: #username
@@ -24,8 +23,10 @@ owner:
     analytics: UA-102434081-1
     verify:
     scholar: #id
+  facebook: #username
+  instagram: #username
   bing-verify:
-  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
   lastfm: #username
   tumblr: #username
@@ -41,6 +42,16 @@ owner:
   disqus-shortname:
   
 
+# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
+# you may do so in _sass/variables.scss
+highlight-color: '#CC0000'
+lowlight-color: '#000'
+
+  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
+creative-commons:
+  cc-by: #yes
+  cc-by-nc: #yes
+
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 
@@ -50,8 +61,9 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 kramdown:
   auto_ids: true

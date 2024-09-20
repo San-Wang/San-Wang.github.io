@@ -1,22 +1,28 @@
 ---
 layout: resume
----  
+menutitle: Resume
+menuorder: 2
+---
+
+## Currently
+
+Senior Data Scientist & Product Owner in Healthcare
 
 ## Education
 
 `2016 - 2018`
- __George Washington University__
+**George Washington University**
 * M.S. in Data Science
 
 `2011 - 2015`
-__Sichuan University__
+**Sichuan University**
 * B.S. in Mathematics, concerntration on Statistics 
 
 ## Publications
 
-**Wang S**, Han J, Jung SY, et al. Development and implementation of patient-level prediction models of end-stage renal disease for type 2 diabetes patients using fast healthcare interoperability resources. Sci Rep. 2022;12(1):11232. Published 2022 Jul 4. doi:10.1038/s41598-022-15036-6
+* **Wang S**, Han J, Jung SY, et al. Development and implementation of patient-level prediction models of end-stage renal disease for type 2 diabetes patients using fast healthcare interoperability resources. Sci Rep. 2022;12(1):11232. Published 2022 Jul 4. doi:10.1038/s41598-022-15036-6  
 
-Koker TE, S.S. Chintapalli, **Wang S**, et al. On Identification and Retrieval of Near-Duplicate Biological Images: a New Dataset and Protocol. Published online January 10, 2021. doi:https://doi.org/10.1109/icpr48806.2021.9412849
+* Koker TE, S.S. Chintapalli, **Wang S**, et al. On Identification and Retrieval of Near-Duplicate Biological Images: a New Dataset and Protocol. Published online January 10, 2021. doi:https://doi.org/10.1109/icpr48806.2021.9412849  
 
 ## Work
 
@@ -37,7 +43,7 @@ Koker TE, S.S. Chintapalli, **Wang S**, et al. On Identification and Retrieval o
 * •	Improved tagging performance by assembling deep learning models with a keyword-matching agent  
 
 **Movie Recommendation System [MySQL/Spark/Flask]**  
-[(Demo)](https://san-wang.github.io/blog/Movie_Recommender/)                  
+<a href="https://san-wang.github.io/blog/Movie_Recommender">Link to Demo</a>  
 * •	Built a Flask demo backed with MySQL and integrated recommendation models to provide live movie recommendations  
 * •	Created ETL pipelines for online analytical processing (OLAP) with Spark SQL to analyze user behavior and trending patterns  
 * •	Trained Collaborative Filtering (CF) models for personalized recommendation using ALS matrix factorization from Spark MLlib and provided user-based CF model to handle item cold start  
@@ -46,8 +52,8 @@ Koker TE, S.S. Chintapalli, **Wang S**, et al. On Identification and Retrieval o
 * •	Predicted product demand for an online ads platform by analyzing users and products’ unstructured (title and description in Russian, images) and structured data (price, category, location and time) using VGG16, Random Forest, lightGBM, and logistic regression  
 
 **Master Capstone, German Traffic Sign Classification [Caffe/Tensorflow]**  
-[Implementation in Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)   
-[Implementation in Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
+[Blog for Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
+[Blog for Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)  
 * •	Classified 39K traffic sign images in 43 categories using the convolutional neural network (CNN) and benchmarked results against two deep learning frameworks (Tensorflow and Caffe)  
 * •	Analyzed CNN models by building customized visualization to show the change of kernels during training using Tensorboard  
 
@@ -55,7 +61,7 @@ Koker TE, S.S. Chintapalli, **Wang S**, et al. On Identification and Retrieval o
 * •	Applied logistic regression model to predict NIPPV treatment effect for patients with respiratory failure using SPSS and SAS  
 
 **Tableau Portfolio**  
-* •	Tableau profile [*page*](https://public.tableau.com/profile/san.wang#!/vizhome)  
+* •	[Link to Tableau profile](https://public.tableau.com/profile/san.wang#!/vizhome)  
 
 <div id="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9">...</div><script type="text/javascript">
 var cpo = []; cpo["_object"] ="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9"; cpo["_fid"] = "AwEALTuMiWbL";
@@ -88,6 +94,7 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 201
 * •	2021 USDBF Club Crew National Championships: Premier Mixed Division Participant  
 * •	2021 Mercer GWN Race: Sport Mixed Division 2nd Place  
 * •	2021 ERDBA Regional Championship: Premier Mixed Division 2nd Place  
+
 `New Orleans, LA, 03/2017` Habitat for Humanity  
 `Arlington, VA, 10/2016` Marine Corp Marathon  
 `Washington Monument Grounds, DC, 06/2016` Moving day DC (National Parkinson Fundraising)  
@@ -99,6 +106,9 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 201
 
 ## Conference
 
+`Cambridge, 03/06/2020` 2020 Women in Data Science (WiDS) Cambridge 
+`Ann Arbor, 08/08/2019-08/10/2019` 2019 Machine Learning for Healthcare 
+`Cambridge, 03/04/2019` 2019 Women in Data Science (WiDS) Cambridge  
 `DC, 10/09/2017` DevFest DC 2017  
 `DC, 05/15/2017-05/17/2017` Know Identity Conference  
 `DC, 05/05/2017-05/06/2017` DevFest DC 2017  
