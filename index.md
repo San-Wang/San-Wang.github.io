@@ -8,10 +8,10 @@ menuorder: 1
 
 ### My Passion:  
 
-- Bring value:  
+- Make decision making resourceful:  
   * Leverage various forms of information (tabular, text, image, etc.) to improve decision making to be more data driven and truthful. Data science together with computer vision and natural language process inspire each other.  
 
-- Bring value the right way:  
+- Make decision making faithful:  
   * Make decisions with the right data  
   * Protect privacy  
 

@@ -38,30 +38,30 @@ Senior Data Scientist & Product Owner in Healthcare
 ## Projects  
 
 **Fashion Product Discovery App [CV/NLP]**
-* •	Equipped Glancer app with the power of machine learning solutions for indexing products, generating titles for mobile display, and exploring trending new products  
-* •	Developed product tagging pipelines leveraging multimodal learning to analyze products’ image and description text  
-* •	Improved tagging performance by assembling deep learning models with a keyword-matching agent  
+* Equipped Glancer app with the power of machine learning solutions for indexing products, generating titles for mobile display, and exploring trending new products  
+* Developed product tagging pipelines leveraging multimodal learning to analyze products’ image and description text  
+* Improved tagging performance by assembling deep learning models with a keyword-matching agent  
 
 **Movie Recommendation System [MySQL/Spark/Flask]**  
 <a href="https://san-wang.github.io/blog/Movie_Recommender">Link to Demo</a>  
-* •	Built a Flask demo backed with MySQL and integrated recommendation models to provide live movie recommendations  
-* •	Created ETL pipelines for online analytical processing (OLAP) with Spark SQL to analyze user behavior and trending patterns  
-* •	Trained Collaborative Filtering (CF) models for personalized recommendation using ALS matrix factorization from Spark MLlib and provided user-based CF model to handle item cold start  
+* Built a Flask demo backed with MySQL and integrated recommendation models to provide live movie recommendations  
+* Created ETL pipelines for online analytical processing (OLAP) with Spark SQL to analyze user behavior and trending patterns  
+* Trained Collaborative Filtering (CF) models for personalized recommendation using ALS matrix factorization from Spark MLlib and provided user-based CF model to handle item cold start  
 
 **Product Demand Analysis [CV/NLP/ML]**  
-* •	Predicted product demand for an online ads platform by analyzing users and products’ unstructured (title and description in Russian, images) and structured data (price, category, location and time) using VGG16, Random Forest, lightGBM, and logistic regression  
+* Predicted product demand for an online ads platform by analyzing users and products’ unstructured (title and description in Russian, images) and structured data (price, category, location and time) using VGG16, Random Forest, lightGBM, and logistic regression  
 
 **Master Capstone, German Traffic Sign Classification [Caffe/Tensorflow]**  
 [Blog for Caffe](https://san-wang.github.io/blog/GTSRB_Caffe/)  
 [Blog for Tensorflow](https://san-wang.github.io/blog/GTSRB_Tensorflow/)  
-* •	Classified 39K traffic sign images in 43 categories using the convolutional neural network (CNN) and benchmarked results against two deep learning frameworks (Tensorflow and Caffe)  
-* •	Analyzed CNN models by building customized visualization to show the change of kernels during training using Tensorboard  
+* Classified 39K traffic sign images in 43 categories using the convolutional neural network (CNN) and benchmarked results against two deep learning frameworks (Tensorflow and Caffe)  
+* Analyzed CNN models by building customized visualization to show the change of kernels during training using Tensorboard  
 
 **Bachelor Thesis, Treatment Effect Prediction [SAS/SPSS]**  
-* •	Applied logistic regression model to predict NIPPV treatment effect for patients with respiratory failure using SPSS and SAS  
+* Applied logistic regression model to predict NIPPV treatment effect for patients with respiratory failure using SPSS and SAS  
 
 **Tableau Portfolio**  
-* •	[Link to Tableau profile](https://public.tableau.com/profile/san.wang#!/vizhome)  
+>[Link to Tableau profile](https://public.tableau.com/profile/san.wang#!/vizhome)  
 
 <div id="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9">...</div><script type="text/javascript">
 var cpo = []; cpo["_object"] ="cp_widget_6ddbbee1-43b7-423a-8ac4-1424eaf31df9"; cpo["_fid"] = "AwEALTuMiWbL";
@@ -84,16 +84,16 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 201
 ## Community Involvement  
 
 `Boston, 2021-2024` Athlete, CYPN STORM Dragon Boat Club  
-* •	2023 Rhode Island Race: Mixed Division 3rd Place  
-* •	2023 Boston Dragon Boat Festival: Club Division 2nd Place; A Major Division 3rd Place  
-* •	2022 Rhode Island Race (Captain): Mixed Division 1st Place  
-* •	2022 Mercer GWN Race: Sport Women Division 3rd Place  
-* •	2022 Riverfront Hartford Race: A Division 2nd Place  
-* •	2022 IDBF 13th Club Crew World Championship: Premier Mixed Division Participant  
-* •	2022 Boston Dragon Boat Festival: Club Division 1st Place; Women Division 1st Place; A Major Division 3rd Place  
-* •	2021 USDBF Club Crew National Championships: Premier Mixed Division Participant  
-* •	2021 Mercer GWN Race: Sport Mixed Division 2nd Place  
-* •	2021 ERDBA Regional Championship: Premier Mixed Division 2nd Place  
+* 2023 Rhode Island Race: Mixed Division 3rd Place  
+* 2023 Boston Dragon Boat Festival: Club Division 2nd Place; A Major Division 3rd Place  
+* 2022 Rhode Island Race (Captain): Mixed Division 1st Place  
+* 2022 Mercer GWN Race: Sport Women Division 3rd Place  
+* 2022 Riverfront Hartford Race: A Division 2nd Place  
+* 2022 IDBF 13th Club Crew World Championship: Premier Mixed Division Participant  
+* 2022 Boston Dragon Boat Festival: Club Division 1st Place; Women Division 1st Place; A Major Division 3rd Place  
+* 2021 USDBF Club Crew National Championships: Premier Mixed Division Participant  
+* 2021 Mercer GWN Race: Sport Mixed Division 2nd Place  
+* 2021 ERDBA Regional Championship: Premier Mixed Division 2nd Place  
 
 `New Orleans, LA, 03/2017` Habitat for Humanity  
 `Arlington, VA, 10/2016` Marine Corp Marathon  
