@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            San Wang
+title:            Portfolio
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory 
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
@@ -9,7 +9,7 @@ logo:             # filename of a logo image that has been placed into your imag
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
   name: San Wang
-  avatar: 2016GWCareer.jpg
+  avatar: 2024profile.png
   bio: "Direction is more important than speed"
   email: sanwang@gwu.edu
   twitter: #username
